@@ -43,9 +43,10 @@
             "constraints": {
               "enum": [
                 "Abnormally high defined as IFPA>=1. Moderately high defined as 0.5=<IFPA< 1. Twelve month average of monthly price anomalies",
-                "Cotonou. Maize. Retail price",
-                "Cotonou. Rice (imported). Retail price",
-                "Cotonou. Sorghum meal. Retail price",
+                "National Average. Wheat (flour). Retail",
+                "National Average. Maize meal. Retail",
+                "National Average. Rice. Retail",
+                "National Average. Sorghum meal. Retail",
                 ""
               ]
             },
@@ -73,7 +74,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -85,6 +86,7 @@
             "constraints": {
               "enum": [
                 "None",
+                "CPC2_1_111",
                 "CPC2_1_112",
                 "CPC2_1_113",
                 "CPC2_1_114",

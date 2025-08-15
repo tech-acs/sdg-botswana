@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "3.44",
+                "0.38",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2.4",
+                "0.08",
                 ""
               ]
             },
@@ -80,7 +80,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },

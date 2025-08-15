@@ -39,9 +39,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "8.2",
-                "2.7",
-                "13.7",
+                "23.6",
+                "9.1",
+                "38.1",
                 ""
               ]
             }
@@ -51,9 +51,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "4.4",
-                "1.2",
-                "7.6",
+                "13.8",
+                "5.4",
+                "22.3",
                 ""
               ]
             }
@@ -77,7 +77,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }
@@ -127,7 +127,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "The most recent survey was conducted in 2017-18. This is a projection.",
+                "The most recent survey was conducted in 2017. This is a projection.",
                 ""
               ]
             }

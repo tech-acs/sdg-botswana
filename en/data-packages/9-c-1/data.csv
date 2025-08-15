@@ -1,52 +1,45 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,COMMENT_OBS,Value
-2001,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,23.0
-2002,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,27.0
-2003,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,36.0
-2004,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,40.0
-2005,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,43.0
-2006,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,70.0
-2007,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,75.0
-2008,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,79.0
-2009,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,82.0
-2010,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,90.0
-2011,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,99.0
-2012,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,99.0
-2014,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,99.0
-2015,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
-2016,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
-2017,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
-2018,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
-2019,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
-2020,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
-2021,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
-2022,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
-2023,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
-2007,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,0.0
-2008,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,0.0
-2009,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,0.0
-2010,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,0.0
-2011,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,0.0
-2012,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,0.0
-2013,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,25.0
-2014,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,30.0
-2015,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,45.0
-2016,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,45.0
-2017,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,65.0
-2018,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,80.0
-2019,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,80.0
-2020,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,80.0
-2021,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,80.0
-2022,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,82.0
-2023,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,85.0
-2015,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,11.52
-2016,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,23.89
-2017,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,39.72
-2018,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,40.0
-2019,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,45.0
-2020,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,46.0
-2021,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,46.0
-2022,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,80.0
-2023,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,80.0
-2021,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_5GNTWK,204,PT,2025-03-08T00:00:00,2023,Data not available,0.0
-2022,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_5GNTWK,204,PT,2025-03-08T00:00:00,2023,Data not available,0.0
-2023,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_5GNTWK,204,PT,2025-03-08T00:00:00,2023,Data not available,0.0
+2002,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,99.0
+2003,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,99.0
+2004,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,99.0
+2005,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,99.0
+2006,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,99.0
+2007,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,99.0
+2008,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,99.0
+2011,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,96.0
+2012,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,96.0
+2014,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,98.0
+2015,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,98.0
+2016,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,98.0
+2017,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,97.0
+2018,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,97.0
+2019,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,97.0
+2020,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,98.0
+2021,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,98.0
+2022,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,98.0
+2023,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_2GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,99.0
+2011,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_3GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,40.0
+2012,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_3GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,45.0
+2013,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_3GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,68.24
+2014,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_3GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,78.0
+2015,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_3GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,82.0
+2016,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_3GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,84.0
+2017,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_3GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,80.0
+2018,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_3GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,95.0
+2019,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_3GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,96.0
+2020,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_3GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,97.0
+2021,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_3GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,98.0
+2022,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_3GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,98.0
+2023,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_3GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,98.0
+2014,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_4GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,0.0
+2015,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_4GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,40.0
+2016,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_4GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,64.0
+2017,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_4GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,64.0
+2018,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_4GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,65.0
+2019,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_4GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,68.0
+2020,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_4GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,77.0
+2021,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_4GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,88.0
+2022,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_4GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,91.0
+2023,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_4GNTWK,72,PT,2025-03-06T00:00:00,2023,value for the largest operator,91.0
+2022,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_5GNTWK,72,PT,2025-03-08T00:00:00,2023,Data not available,23.0
+2023,A,0,Botswana Communications Regulatory Authority (BOCRA),IT_MOB_5GNTWK,72,PT,2025-03-08T00:00:00,2023,Data not available,23.0

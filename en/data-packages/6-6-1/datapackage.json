@@ -44,7 +44,6 @@
             "constraints": {
               "enum": [
                 "Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019)",
-                "Represent 1996 proxy",
                 ""
               ]
             },
@@ -57,7 +56,6 @@
               "enum": [
                 "Global Surface Water Explorer extraction for UN Environment Programme",
                 "Ramsar National Report COP14",
-                "Environment Live",
                 ""
               ]
             },
@@ -73,7 +71,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -113,8 +111,6 @@
                 "2021",
                 "2019-2023",
                 "2018-2021",
-                "2020",
-                "1984-1999",
                 "2016-2018",
                 ""
               ]

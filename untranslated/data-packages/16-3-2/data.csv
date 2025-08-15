@@ -1,9 +1,14 @@
-Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2005,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,204,None,PT,2025-03-21T00:00:00,2021,93.74
-2010,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,204,None,PT,2025-03-21T00:00:00,2021,74.9
-2014,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,204,None,PT,2025-03-21T00:00:00,2021,70.97
-2017,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,204,None,PT,2025-03-21T00:00:00,2021,62.26
-2019,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,204,None,PT,2025-03-21T00:00:00,2021,64.88
-2021,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,204,None,PT,2025-03-21T00:00:00,2021,59.88
-2017,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,204,F,PT,2025-03-21T00:00:00,2017,74.51
-2017,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,204,M,PT,2025-03-21T00:00:00,2017,61.85
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2004,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,72,PT,2025-03-21T00:00:00,2021,41.2
+2005,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,72,PT,2025-03-21T00:00:00,2021,49.98
+2006,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,72,PT,2025-03-21T00:00:00,2021,50.03
+2007,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,72,PT,2025-03-21T00:00:00,2021,54.77
+2008,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,72,PT,2025-03-21T00:00:00,2021,48.58
+2009,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,72,PT,2025-03-21T00:00:00,2021,62.91
+2010,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,72,PT,2025-03-21T00:00:00,2021,41.88
+2011,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,72,PT,2025-03-21T00:00:00,2021,22.28
+2013,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,72,PT,2025-03-21T00:00:00,2021,23.26
+2014,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,72,PT,2025-03-21T00:00:00,2021,28.44
+2015,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,72,PT,2025-03-21T00:00:00,2021,24.49
+2016,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,72,PT,2025-03-21T00:00:00,2021,22.17
+2021,A,0,UNODC calculations based on national data,VC_PRS_UNSNT,72,PT,2025-03-21T00:00:00,2021,22.46

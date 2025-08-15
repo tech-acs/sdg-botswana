@@ -39,9 +39,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ministère du Cadre de Vie et du Développement Durable",
-                "Ministry of Living Environment and Sustainable Development",
-                "Direction Générale de l'Environnement et du Climat",
+                "Ministry of Environment and Tourism",
+                "Ministry of Environment, Natural Resources, Conservation and Tourism",
+                "Department of Meteorological Services",
+                "Ministry of Agriculture",
                 "World Environment Situation Room",
                 ""
               ]
@@ -56,7 +57,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }

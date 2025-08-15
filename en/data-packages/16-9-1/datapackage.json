@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Two clusters could not be visited due to insecurity and evictions during the field work period",
+                "Births registered",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MICS 2021-22",
+                "Vital statistics 2021",
                 ""
               ]
             },
@@ -69,7 +69,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -80,11 +80,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M12T23",
-                "M24T35",
-                "M36T47",
-                "M48T59",
-                "Y0",
                 "Y0T4",
                 ""
               ]
@@ -106,7 +101,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2021-22",
+                "2021",
                 ""
               ]
             },
@@ -114,7 +109,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

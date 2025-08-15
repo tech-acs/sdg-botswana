@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "United Nations Population Fund, global databases, 2022. Based on official responses to the United Nations 12th Inquiry among Governments on Population and Development.",
+                "United Nations Population Fund, global databases, 2022. Based on official responses to the United Nations 13th Inquiry among Governments on Population and Development.",
                 ""
               ]
             },
@@ -58,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -79,7 +79,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2019",
+                "2022",
                 ""
               ]
             },

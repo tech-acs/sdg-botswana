@@ -58,24 +58,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
             "title": "REF_AREA"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "F",
-                "M",
-                ""
-              ]
-            },
-            "title": "SEX"
           },
           {
             "name": "UNIT_MEASURE",
@@ -93,7 +80,6 @@
             "constraints": {
               "enum": [
                 "2021",
-                "2017",
                 ""
               ]
             },

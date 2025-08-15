@@ -59,7 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -109,7 +109,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                "2022",
                 ""
               ]
             },

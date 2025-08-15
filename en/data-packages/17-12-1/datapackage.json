@@ -58,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -71,6 +71,7 @@
               "enum": [
                 "None",
                 "AGG_AGR",
+                "AGG_ARMS",
                 "AGG_CLTH",
                 "AGG_IND",
                 "AGG_TXT",

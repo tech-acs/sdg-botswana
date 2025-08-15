@@ -1,4 +1,26 @@
 Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2013,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,IC_GEN_MGTL,204,F,Y_GE15,PT,2025-03-15T00:00:00,2022,22.15
-2022,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,IC_GEN_MGTL,204,F,Y_GE15,PT,2025-03-15T00:00:00,2022,60.36
-2022,U,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,IC_GEN_MGTN,204,F,Y_GE15,PT,2025-03-15T00:00:00,2022,23.52
+2000,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTL,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,35.43
+2001,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTL,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,30.85
+2003,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTL,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,32.98
+2006,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTL,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,30.53
+2010,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTL,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,38.62
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTL,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,57.84
+2020,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTL,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,56.65
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTL,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,58.05
+2022,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTL,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,58.48
+2023,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTL,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,51.89
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTL_19ICLS,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,57.84
+2020,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTL_19ICLS,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,56.65
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTL_19ICLS,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,58.05
+2022,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTL_19ICLS,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,58.48
+2023,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTL_19ICLS,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,51.89
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTN,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,57.77
+2020,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTN,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,56.68
+2021,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTN,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,58.39
+2022,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTN,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,59.22
+2023,A,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTN,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,52.69
+2019,U,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTN_19ICLS,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,57.77
+2020,U,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTN_19ICLS,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,56.68
+2021,U,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTN_19ICLS,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,58.39
+2022,U,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTN_19ICLS,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,59.22
+2023,U,0,Repository: ILO-STATISTICS - Micro data processing,HS - Multi-Topic Household Survey,IC_GEN_MGTN_19ICLS,72,F,Y_GE15,PT,2025-03-15T00:00:00,2023,52.69

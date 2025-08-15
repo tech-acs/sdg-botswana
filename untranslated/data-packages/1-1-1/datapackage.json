@@ -49,8 +49,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Accessed June 5, 2025. Based on data from EHCVM. Estimated from unit-record consumption data. Defined as the percentage of the population living on less than $3.00 a day at 2021 international prices.",
-                "Accessed June 5, 2025. Survey name: EHCVM. Uses a consumption aggregate, which is not spatially deflated. Defined as the percentage of the population living on less than $3.00 a day at 2021 international prices.",
+                "Accessed June 5, 2025. Based on data from BMTHS. Estimated from unit-record consumption data. Defined as the percentage of the population living on less than $3.00 a day at 2021 international prices.",
+                "Accessed June 5, 2025. Survey name: BMTHS. Uses a consumption aggregate, which is not spatially deflated. Defined as the percentage of the population living on less than $3.00 a day at 2021 international prices.",
                 ""
               ]
             }
@@ -61,7 +61,6 @@
             "constraints": {
               "enum": [
                 "Poverty and Inequality Portal, World Bank",
-                "ILO modelled estimates, Nov. 2024",
                 ""
               ]
             }
@@ -75,7 +74,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }
@@ -101,9 +100,6 @@
                 "Y_GE65",
                 "Y0T14",
                 "Y15T64",
-                "Y_GE15",
-                "Y_GE25",
-                "Y15T24",
                 ""
               ]
             }
@@ -133,7 +129,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2021",
                 "2015",
                 ""
               ]

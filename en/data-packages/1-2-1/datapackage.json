@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Source: INSAE",
+                "Source: Statistics Botswana",
                 ""
               ]
             },
@@ -69,7 +69,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -90,7 +90,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2018",
+                "2015",
                 ""
               ]
             },

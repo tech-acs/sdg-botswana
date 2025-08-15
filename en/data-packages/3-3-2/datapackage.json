@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "75",
+                "305",
                 ""
               ]
             },
@@ -64,7 +64,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "31",
+                "124",
                 ""
               ]
             },
@@ -91,7 +91,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },

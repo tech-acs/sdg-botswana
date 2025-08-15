@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Direction Générale de l'Eau/Ministère de l'Eau et des Mines",
+                "Department of Water and Sanitation",
                 ""
               ]
             },
@@ -58,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -79,7 +79,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2021-2022",
+                "2020-2022",
                 ""
               ]
             },

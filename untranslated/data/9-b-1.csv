@@ -1,1 +1,10 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,ACTIVITY,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2014,A,0,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,UNIDO INDSTAT Database. Available at https://stat.unido.org,NV_IND_TECH,72,ISIC4_C,PT,2025-02-27T00:00:00,2022,20.26
+2015,A,0,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,UNIDO INDSTAT Database. Available at https://stat.unido.org,NV_IND_TECH,72,ISIC4_C,PT,2025-02-27T00:00:00,2022,23.7
+2016,A,0,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,UNIDO INDSTAT Database. Available at https://stat.unido.org,NV_IND_TECH,72,ISIC4_C,PT,2025-02-27T00:00:00,2022,23.36
+2017,A,0,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,UNIDO INDSTAT Database. Available at https://stat.unido.org,NV_IND_TECH,72,ISIC4_C,PT,2025-02-27T00:00:00,2022,25.68
+2018,A,0,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,UNIDO INDSTAT Database. Available at https://stat.unido.org,NV_IND_TECH,72,ISIC4_C,PT,2025-02-27T00:00:00,2022,26.1
+2019,A,0,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,UNIDO INDSTAT Database. Available at https://stat.unido.org,NV_IND_TECH,72,ISIC4_C,PT,2025-02-27T00:00:00,2022,26.75
+2020,A,0,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,UNIDO INDSTAT Database. Available at https://stat.unido.org,NV_IND_TECH,72,ISIC4_C,PT,2025-02-27T00:00:00,2022,28.73
+2021,A,0,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,UNIDO INDSTAT Database. Available at https://stat.unido.org,NV_IND_TECH,72,ISIC4_C,PT,2025-02-27T00:00:00,2022,28.69
+2022,A,0,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,UNIDO INDSTAT Database. Available at https://stat.unido.org,NV_IND_TECH,72,ISIC4_C,PT,2025-02-27T00:00:00,2022,25.85

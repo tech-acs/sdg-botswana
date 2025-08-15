@@ -1,1 +1,3 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2012,A,0,Break in series with previous year for which data are available,UNESCO Institute for Statistics.  Data extracted on 25 February 2025.,GB_POP_SCIERD,72,PER_1000000_POP,2025-03-05T00:00:00,2013,168.08972
+2013,A,0,Break in series with previous year for which data are available,UNESCO Institute for Statistics.  Data extracted on 25 February 2025.,GB_POP_SCIERD,72,PER_1000000_POP,2025-03-05T00:00:00,2013,179.77334

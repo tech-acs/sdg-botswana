@@ -1,25 +1,2 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2017,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDDOC,204,None,PT,2024-11-07T00:00:00,2021,12.62762
-2018,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDDOC,204,None,PT,2024-11-07T00:00:00,2021,11.30474
-2021,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDDOC,204,None,PT,2024-11-07T00:00:00,2021,12.50349
-2017,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDDOC,204,F,PT,2024-11-07T00:00:00,2021,3.7419
-2018,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDDOC,204,F,PT,2024-11-07T00:00:00,2021,11.08228
-2021,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDDOC,204,F,PT,2024-11-07T00:00:00,2021,11.86332
-2017,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDDOC,204,M,PT,2024-11-07T00:00:00,2021,21.30306
-2018,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDDOC,204,M,PT,2024-11-07T00:00:00,2021,11.58585
-2021,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDDOC,204,M,PT,2024-11-07T00:00:00,2021,13.33624
-2018,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDSEC,204,None,PT,2024-11-07T00:00:00,2021,68.43762
-2021,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDSEC,204,None,PT,2024-11-07T00:00:00,2021,70.17881
-2018,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDSEC,204,F,PT,2024-11-07T00:00:00,2021,68.50304
-2021,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDSEC,204,F,PT,2024-11-07T00:00:00,2021,69.91586
-2018,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDSEC,204,M,PT,2024-11-07T00:00:00,2021,68.35337
-2021,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDSEC,204,M,PT,2024-11-07T00:00:00,2021,70.52733
-2017,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDSTR,204,None,PT,2024-11-07T00:00:00,2021,47.2252
-2018,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDSTR,204,None,PT,2024-11-07T00:00:00,2021,63.44189
-2021,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDSTR,204,None,PT,2024-11-07T00:00:00,2021,67.92159
-2017,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDSTR,204,F,PT,2024-11-07T00:00:00,2021,24.97876
-2018,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDSTR,204,F,PT,2024-11-07T00:00:00,2021,64.0464
-2021,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDSTR,204,F,PT,2024-11-07T00:00:00,2021,68.12338
-2017,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDSTR,204,M,PT,2024-11-07T00:00:00,2021,68.94518
-2018,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDSTR,204,M,PT,2024-11-07T00:00:00,2021,62.67796
-2021,A,0,Total population is restricted to household head and wife due to data limitations.,UEMOA CIV1,SP_LGL_LNDSTR,204,M,PT,2024-11-07T00:00:00,2021,67.65909
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2018,A,0,Derived by UN-Habitat from New Urban Agenda reporting of the relevant country.,Statistics Botswana -  New Urban Agenda Report - 2021,SP_LGL_LNDDOC,72,PT,2024-11-07T00:00:00,2018,63

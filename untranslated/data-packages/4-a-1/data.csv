@@ -1,36 +1,37 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,EDUCATION_LEV,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2020,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACC_HNDWSH,204,ISCED11_1,PT,2025-03-05T00:00:00,2020,50.64022
-2020,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACC_HNDWSH,204,ISCED11_2,PT,2025-03-05T00:00:00,2022,46.70157
-2022,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACC_HNDWSH,204,ISCED11_2,PT,2025-03-05T00:00:00,2022,97.75332
-2022,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACC_HNDWSH,204,ISCED11_3,PT,2025-03-05T00:00:00,2022,97.17125
-2022,A,0,NA Data extracted on 25 February 2025.,SE_ACS_CMPTR,204,AGG_2_3,PT,2025-03-05T00:00:00,2022,31.78561
-2020,A,0,NA Data extracted on 25 February 2025.,SE_ACS_CMPTR,204,ISCED11_2,PT,2025-03-05T00:00:00,2022,29.05759
-2022,A,0,NA Data extracted on 25 February 2025.,SE_ACS_CMPTR,204,ISCED11_2,PT,2025-03-05T00:00:00,2022,28.51903
-2022,A,0,NA Data extracted on 25 February 2025.,SE_ACS_CMPTR,204,ISCED11_3,PT,2025-03-05T00:00:00,2022,37.23242
-2014,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_ELECT,204,ISCED11_1,PT,2025-03-05T00:00:00,2022,40.80491
-2016,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_ELECT,204,ISCED11_1,PT,2025-03-05T00:00:00,2022,20.90925
-2018,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_ELECT,204,ISCED11_1,PT,2025-03-05T00:00:00,2022,25.58659
-2019,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_ELECT,204,ISCED11_1,PT,2025-03-05T00:00:00,2022,28.04375
-2020,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_ELECT,204,ISCED11_1,PT,2025-03-05T00:00:00,2022,33.82326
-2021,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_ELECT,204,ISCED11_1,PT,2025-03-05T00:00:00,2022,33.09717
-2022,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_ELECT,204,ISCED11_1,PT,2025-03-05T00:00:00,2022,33.65605
-2016,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_ELECT,204,ISCED11_2,PT,2025-03-05T00:00:00,2022,68.47886
-2020,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_ELECT,204,ISCED11_2,PT,2025-03-05T00:00:00,2022,78.06283
-2022,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_ELECT,204,ISCED11_2,PT,2025-03-05T00:00:00,2022,81.01788
-2016,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_ELECT,204,ISCED11_3,PT,2025-03-05T00:00:00,2022,87.72846
-2022,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_ELECT,204,ISCED11_3,PT,2025-03-05T00:00:00,2022,94.64832
-2014,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_H2O,204,ISCED11_1,PT,2025-03-05T00:00:00,2022,51.85836
-2016,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_H2O,204,ISCED11_1,PT,2025-03-05T00:00:00,2022,44.61415
-2019,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_H2O,204,ISCED11_1,PT,2025-03-05T00:00:00,2022,40.47875
-2021,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_H2O,204,ISCED11_1,PT,2025-03-05T00:00:00,2022,54.87624
-2022,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_H2O,204,ISCED11_1,PT,2025-03-05T00:00:00,2022,53.01062
-2020,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_H2O,204,ISCED11_2,PT,2025-03-05T00:00:00,2022,80.68063
-2022,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_H2O,204,ISCED11_2,PT,2025-03-05T00:00:00,2022,83.21871
-2022,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_H2O,204,ISCED11_3,PT,2025-03-05T00:00:00,2022,92.27829
-2022,A,0,NA Data extracted on 25 February 2025.,SE_ACS_INTNT,204,AGG_2_3,PT,2025-03-05T00:00:00,2022,4.01261
-2020,A,0,NA Data extracted on 25 February 2025.,SE_ACS_INTNT,204,ISCED11_2,PT,2025-03-05T00:00:00,2022,3.9267
-2022,A,0,NA Data extracted on 25 February 2025.,SE_ACS_INTNT,204,ISCED11_2,PT,2025-03-05T00:00:00,2022,3.57634
-2022,A,0,NA Data extracted on 25 February 2025.,SE_ACS_INTNT,204,ISCED11_3,PT,2025-03-05T00:00:00,2022,4.74006
-2020,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_SANIT,204,ISCED11_2,PT,2025-03-05T00:00:00,2022,72.98429
-2022,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_SANIT,204,ISCED11_2,PT,2025-03-05T00:00:00,2022,77.71664
-2022,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_ACS_SANIT,204,ISCED11_3,PT,2025-03-05T00:00:00,2022,82.56881
+2012,A,0,NA Data extracted on 25 February 2025.,SE_ACS_CMPTR,72,AGG_2_3,PT,2025-03-05T00:00:00,2022,100.0
+2015,A,0,NA Data extracted on 25 February 2025.,SE_ACS_CMPTR,72,AGG_2_3,PT,2025-03-05T00:00:00,2022,15.03387
+2022,A,0,NA Data extracted on 25 February 2025.,SE_ACS_CMPTR,72,AGG_2_3,PT,2025-03-05T00:00:00,2022,98.64407
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_CMPTR,72,ISCED11_1,PT,2025-03-05T00:00:00,2022,51.35773
+2012,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_CMPTR,72,ISCED11_2,PT,2025-03-05T00:00:00,2022,100.0
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_CMPTR,72,ISCED11_2,PT,2025-03-05T00:00:00,2022,95.16908
+2012,A,0,NA Data extracted on 25 February 2025.,SE_ACS_CMPTR,72,ISCED11_3,PT,2025-03-05T00:00:00,2022,100.0
+2022,A,0,NA Data extracted on 25 February 2025.,SE_ACS_CMPTR,72,ISCED11_3,PT,2025-03-05T00:00:00,2022,96.59091
+2012,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_ELECT,72,ISCED11_1,PT,2025-03-05T00:00:00,2022,79.18719
+2021,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_ELECT,72,ISCED11_1,PT,2025-03-05T00:00:00,2022,44.09257
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_ELECT,72,ISCED11_1,PT,2025-03-05T00:00:00,2022,97.87485
+2012,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_ELECT,72,ISCED11_2,PT,2025-03-05T00:00:00,2022,100.0
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_ELECT,72,ISCED11_2,PT,2025-03-05T00:00:00,2022,100.0
+2012,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_ELECT,72,ISCED11_3,PT,2025-03-05T00:00:00,2022,100.0
+2021,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_ELECT,72,ISCED11_3,PT,2025-03-05T00:00:00,2022,85.33333
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_ELECT,72,ISCED11_3,PT,2025-03-05T00:00:00,2022,98.86364
+2021,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_H2O,72,ISCED11_1,PT,2025-03-05T00:00:00,2022,92.69184
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_H2O,72,ISCED11_1,PT,2025-03-05T00:00:00,2022,100.0
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_H2O,72,ISCED11_2,PT,2025-03-05T00:00:00,2022,100.0
+2021,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_H2O,72,ISCED11_3,PT,2025-03-05T00:00:00,2022,85.33333
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_H2O,72,ISCED11_3,PT,2025-03-05T00:00:00,2022,100.0
+2012,A,0,NA Data extracted on 25 February 2025.,SE_ACS_INTNT,72,AGG_2_3,PT,2025-03-05T00:00:00,2022,86.28159
+2022,A,0,NA Data extracted on 25 February 2025.,SE_ACS_INTNT,72,AGG_2_3,PT,2025-03-05T00:00:00,2022,94.91525
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_INTNT,72,ISCED11_1,PT,2025-03-05T00:00:00,2022,62.10153
+2012,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_INTNT,72,ISCED11_2,PT,2025-03-05T00:00:00,2022,99.51923
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_INTNT,72,ISCED11_2,PT,2025-03-05T00:00:00,2022,99.51691
+2012,A,0,NA Data extracted on 25 February 2025.,SE_ACS_INTNT,72,ISCED11_3,PT,2025-03-05T00:00:00,2022,46.37681
+2022,A,0,NA Data extracted on 25 February 2025.,SE_ACS_INTNT,72,ISCED11_3,PT,2025-03-05T00:00:00,2022,94.31818
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_SANIT,72,ISCED11_1,PT,2025-03-05T00:00:00,2022,100.0
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_SANIT,72,ISCED11_2,PT,2025-03-05T00:00:00,2022,100.0
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_ACS_SANIT,72,ISCED11_3,PT,2025-03-05T00:00:00,2022,100.0
+2021,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_INF_DSBL,72,ISCED11_1,PT,2025-03-05T00:00:00,2022,19.61023
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_INF_DSBL,72,ISCED11_1,PT,2025-03-05T00:00:00,2022,56.43447
+2021,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_INF_DSBL,72,ISCED11_2,PT,2025-03-05T00:00:00,2022,72.72727
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_INF_DSBL,72,ISCED11_2,PT,2025-03-05T00:00:00,2022,46.8599
+2022,A,0,Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.,SE_INF_DSBL,72,ISCED11_3,PT,2025-03-05T00:00:00,2022,62.5

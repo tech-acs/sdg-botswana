@@ -46,7 +46,9 @@
                 "International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",
                 "International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",
                 "World Bank, International Debt Statistics.",
+                "International Monetary Fund, Financial Soundness Indicators.",
                 "International Monetary Fund, International Financial Statistics and data files.",
+                "International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",
                 "World Bank national accounts data, and OECD National Accounts data files.",
                 "International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",
                 "World Trade Organization, and World Bank GDP estimates.",
@@ -65,7 +67,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -86,8 +88,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
                 "2023",
+                "2022",
                 ""
               ]
             },

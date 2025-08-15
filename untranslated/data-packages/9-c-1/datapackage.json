@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin)",
+                "Botswana Communications Regulatory Authority (BOCRA)",
                 ""
               ]
             }
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }
@@ -81,7 +81,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Données corrigées",
+                "value for the largest operator",
                 "Data not available",
                 ""
               ]

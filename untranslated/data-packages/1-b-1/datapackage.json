@@ -35,16 +35,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "This average does not include data for some sectors and can therefore not be directly compared with other countries.",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
@@ -63,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }
@@ -91,7 +81,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2018",
+                "2010",
                 ""
               ]
             }

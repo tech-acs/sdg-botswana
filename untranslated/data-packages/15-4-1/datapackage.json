@@ -19,6 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "A",
                 ""
               ]
             }
@@ -28,15 +29,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
+                "0",
                 ""
               ]
             }
@@ -46,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "0",
                 ""
               ]
             }
@@ -55,6 +49,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "0",
                 ""
               ]
             }
@@ -64,6 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "BirdLife International, IUCN and UNEP-WCMC (2025). Based on spatial overlap between polygons for Key Biodiversity Areas from the World Database of Key Biodiveristy Areas (www.keybiodiversityareas.org) and polygons for protected areas from the World Database on Protected Areas and (where available) for Other Effective area-based Conservation Measures and from the World Database on OECMs (www.protectedplanet.net)",
                 ""
               ]
             }
@@ -77,6 +73,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "72",
                 ""
               ]
             }
@@ -94,13 +91,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2024",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

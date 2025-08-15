@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "National Coordinator for the management of AnGR of: Benin",
+                "Department of Agricultural Research",
                 "FAO-WIEWS (http://www.fao.org/wiews)",
                 ""
               ]
@@ -59,7 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },

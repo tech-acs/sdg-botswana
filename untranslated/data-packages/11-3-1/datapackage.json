@@ -63,7 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }
@@ -74,10 +74,6 @@
             "constraints": {
               "enum": [
                 "C02",
-                "C03",
-                "C04",
-                "C05",
-                "C08",
                 ""
               ]
             }
@@ -91,11 +87,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Cotonou",
-                "Djougou",
-                "Kandi",
-                "Natitingou",
-                "Abomey",
+                "Gaborone",
                 ""
               ]
             }

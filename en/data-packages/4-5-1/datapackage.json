@@ -42,14 +42,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Benin Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM) 2021-22. The survey collected data on school attendance and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
-                "Benin MICS 2021-22. The survey collected data on school attendance for age 3-24 and educational attainment for age 5 and above. Data extracted on 25 February 2025.",
-                "Benin MICS 2014. The survey collected data on school attendance for age 5-24 and educational attainment for age 5 and above. Data extracted on 25 February 2025.",
-                "Benin DHS 2017-18. The survey collected data on school attendance for age 5-24 and educational attainment for age 5 and above. Data extracted on 25 February 2025.",
-                "UIS based on UIS based on BEN - HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 25 February 2025.",
+                "Botswana Quarterly Multi-Topic Survey, Quarter 3 2023. The survey collected data on educational attainment for age 2 and above. Data extracted on 25 February 2025.",
+                "Statistics Botswana",
+                "UIS based on UIS based on BWA - HS - Multi-Topic Household Survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 25 February 2025.",
+                "UIS based on UIS based on BWA - HS - Multi-Topic Household Survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None - Unreliable - Low reliability Data extracted on 25 February 2025.",
+                "Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.",
                 "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
-                "CONFEMEN Programme for the Analysis of Education Systems (PASEC). Students achieving at least proficiency Level 3. Grade 6 Data extracted on 25 February 2025.",
-                "CONFEMEN Programme for the Analysis of Education Systems (PASEC). Students achieving at least proficiency Level 4. Grade 6 Data extracted on 25 February 2025.",
+                "Southern and Eastern Africa Consortium for Monitoring Educational Quality (SACMEQ) IV. Students achieving at least proficiency Level 5. Grade 6 Data extracted on 25 February 2025.",
+                "Southern and Eastern Africa Consortium for Monitoring Educational Quality (SACMEQ). Students achieving at least proficiency Level 5. Grade 6 Data extracted on 25 February 2025.",
                 ""
               ]
             },
@@ -65,24 +65,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
             "title": "REF_AREA"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "F",
-                "M",
-                ""
-              ]
-            },
-            "title": "SEX"
           },
           {
             "name": "AGE",
@@ -93,39 +80,11 @@
                 "Y15T24",
                 "Y15T64",
                 "Y25T54",
+                "Y55T64",
                 ""
               ]
             },
             "title": "AGE"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "R",
-                "U",
-                ""
-              ]
-            },
-            "title": "URBANISATION"
-          },
-          {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5",
-                ""
-              ]
-            },
-            "title": "INCOME_WEALTH_QUANTILE"
           },
           {
             "name": "EDUCATION_LEV",
@@ -149,6 +108,21 @@
             "constraints": {
               "enum": [
                 "None",
+                "SKILL_DLDONLD",
+                "SKILL_FONLCRS",
+                "SKILL_GSINF",
+                "SKILL_GSPUR",
+                "SKILL_HLTHINF",
+                "SKILL_ICTATCH",
+                "SKILL_ICTCDV",
+                "SKILL_ICTCPT",
+                "SKILL_ICTPRGM",
+                "SKILL_ICTPST",
+                "SKILL_ICTSSHT",
+                "SKILL_INTBNK",
+                "SKILL_ONLCNS",
+                "SKILL_SNTWK",
+                "SKILL_VOIP",
                 "SKILL_MATH",
                 "SKILL_READ",
                 ""
@@ -171,29 +145,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
-                "2021",
+                "2023",
                 "2014",
-                "2017",
-                "2018",
-                "2000",
                 "2019",
+                "2022",
+                "2007",
+                "2013",
+                "2006",
                 ""
               ]
             },
             "title": "TIME_DETAIL"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "This data point is NIL for the submitting nation.",
-                "This data point is NOT APPLICABLE for the submitting nation.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

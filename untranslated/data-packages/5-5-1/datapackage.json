@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data on 2020 election results. Data provided by the National Statistical Office. Compiled by UNECA African Centre for Statistics and UN Women.",
+                "Administrative data on 2019 election results. Data provided by the National Statistical Office. Compiled by UNECA African Centre for Statistics and UN Women.",
                 "Inter-Parliamentary Union (IPU), Parline Database",
                 ""
               ]
@@ -54,7 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }
@@ -83,7 +83,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2021",
+                "2020",
                 "2025",
                 ""
               ]

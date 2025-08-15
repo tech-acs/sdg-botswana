@@ -53,19 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "F",
-                "M",
+                "72",
                 ""
               ]
             }
@@ -84,7 +72,6 @@
             "constraints": {
               "enum": [
                 "2021",
-                "2017",
                 ""
               ]
             }

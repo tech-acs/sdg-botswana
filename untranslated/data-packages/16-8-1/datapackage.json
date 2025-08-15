@@ -40,13 +40,13 @@
             "constraints": {
               "enum": [
                 "African Development Bank Group Annual Report 2022",
-                "Report of the Economic and Social Council on its 2022 Session (A/77/3)",
+                "Report of the Economic and Social Council on its 2023 Session (A/77/3)",
                 "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",
                 "IFC 2023 Annual Report Volume 2",
                 "IMF Annual Report 2023",
                 "UN General Assembly website http://www.un.org/en/member-states/index.html",
-                "Report of the Security Council (A/60/2)",
                 "WTO Annual Report 2023",
+                "Report of the Economic and Social Council on its 2023 Session (A/78/3)",
                 ""
               ]
             }
@@ -60,7 +60,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }
@@ -76,7 +76,6 @@
                 "IO_IFC",
                 "IO_IMF",
                 "IO_UNGA",
-                "IO_UNSC",
                 "IO_WTO",
                 ""
               ]
@@ -97,7 +96,6 @@
               "enum": [
                 "2022",
                 "2023",
-                "2005",
                 ""
               ]
             }

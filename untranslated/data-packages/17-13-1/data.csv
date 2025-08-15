@@ -1,335 +1,430 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2000,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-2.2949879315414
-2001,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-2.04549532483075
-2002,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-3.74152919965989
-2003,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-6.20555050861218
-2004,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-4.66878856732409
-2005,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-3.44376642481128
-2006,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-3.08778709107344
-2007,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-6.54621938784527
-2008,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-5.49862209196275
-2009,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-6.69033181086781
-2010,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-5.56723414879971
-2011,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-4.83328626910556
-2012,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-5.17832684720293
-2013,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-5.37925541834664
-2014,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-6.66790663014034
-2015,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-5.96409317114647
-2016,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-2.99669454901549
-2017,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-4.18078963717339
-2018,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-4.54919534814523
-2019,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-3.99948140523511
-2020,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-1.75041319714608
-2021,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-4.15294312049827
-2022,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,204,PT,2025-03-19T00:00:00,2022,-6.00907083608035
-2000,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,-3244120.13735833
-2001,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,1346263.11507198
-2002,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,1375208.03058379
-2003,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,8180757.12339732
-2004,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,697844.60339572
-2005,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,-16657867.6075664
-2006,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,-14593464.8621604
-2007,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,-18314631.1294259
-2008,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,-8966366.8800413
-2009,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,-91897946.8029393
-2010,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,123479604.887722
-2011,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,207751481.186052
-2012,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,172278538.870557
-2013,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,152285720.352164
-2014,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,79133407.5179531
-2015,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,168463006.296823
-2016,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,3337464.15782733
-2017,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,-235130669.017295
-2018,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,-421012.676315138
-2019,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,-24833944.5194977
-2020,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,510149173.762895
-2021,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,15860811.9431701
-2022,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,204,USD,2025-03-19T00:00:00,2022,94976091.2048849
-2000,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,-0.36349075931042
-2001,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,0.456588183737808
-2002,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,-0.462423415216642
-2003,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,0.198870349303422
-2004,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,-0.658688596039682
-2005,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,-0.133820369489742
-2006,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,-0.175764667500162
-2007,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,1.70386973478895
-2008,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,0.492562990177947
-2009,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,-0.193121764606276
-2010,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,0.561144748003047
-2011,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,1.50844050449931
-2012,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,2.52705777534964
-2013,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,2.87863747034178
-2014,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,3.05420993262565
-2015,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,1.31501182120876
-2016,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,1.11488131010687
-2017,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,1.58170495079138
-2018,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,1.36073573349143
-2019,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,1.51620780935646
-2020,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,1.11183879764369
-2021,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,1.95581459686265
-2022,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,2.16063891256477
-2023,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,204,PT,2025-03-19T00:00:00,2023,2.2049716807008
-2000,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,42.8816395497772
-2001,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,44.6080456131561
-2002,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,44.4370658133816
-2003,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,32.1334455509149
-2004,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,32.419186077994
-2005,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,28.6476157952964
-2006,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,17.9181942417548
-2007,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,18.4502839223657
-2008,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,17.4105461426429
-2009,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,20.7638857666327
-2010,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,24.0894770495564
-2011,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,19.996755003711
-2012,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,23.6582252776724
-2013,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,24.9636746718343
-2014,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,29.09637367081
-2015,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,31.4017254236076
-2016,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,35.8378680486816
-2017,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,38.051632039449
-2018,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,48.5756210711522
-2019,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,48.5208750210975
-2020,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,54.2141769896793
-2021,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,57.5985101856642
-2022,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,62.3431340504469
-2023,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,204,PT,2025-03-19T00:00:00,2023,64.1058071272236
-2000,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,25.9647075047913
-2001,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,0.739246036998782
-2002,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,-11.8482869019221
-2003,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,22.2440894052716
-2004,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,-12.0306456619487
-2005,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,16.8603821715559
-2006,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,27.2272052551172
-2007,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,18.8920908844797
-2008,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,25.4222530282522
-2009,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,8.01049584667733
-2010,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,9.77014665532075
-2011,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,9.38019563254558
-2012,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,7.46034478142468
-2013,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,17.3326731233816
-2014,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,18.3515789309548
-2015,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,6.13645187394474
-2016,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,0.175468917236842
-2017,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,1.04388864244228
-2018,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,4.79888678525398
-2019,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,6.01152739985355
-2020,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,17.301888980157
-2021,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,16.6664813091209
-2022,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,13.0110632647081
-2023,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,204,PT,2025-03-19T00:00:00,2023,-0.394339775523804
-2000,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,4.16540442290284
-2001,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,3.98429547767891
-2002,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,2.48916235491542
-2003,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,1.48724246145442
-2004,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,0.873890830868488
-2005,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,5.36452085832343
-2006,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,3.78217696540376
-2007,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,1.2980681333415
-2008,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,7.94729876067862
-2009,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,0.896072355749111
-2010,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,2.20783532536523
-2011,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,2.7042390774728
-2012,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,6.74468253340712
-2013,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,0.428888888888792
-2014,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,-0.548757550948091
-2015,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,0.218785923536154
-2016,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,-0.793310145785534
-2017,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,0.0432648555103608
-2018,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,0.919170717886054
-2019,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,0.732849371240975
-2020,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,3.02272119663769
-2021,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,1.73353962694036
-2022,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,1.35077863583527
-2023,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,204,PT,2025-03-19T00:00:00,2023,2.73102465280233
-2000,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,5.30767442272281
-2001,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,10.3266034663083
-2002,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.28120634963905
-2003,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,14.807984104662
-2004,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,6.19474912414064
-2005,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.273006114968
-2006,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,9.23137382130825
-2007,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.07125657049498
-2008,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,14.6591185542293
-2009,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,9.77971797225563
-2010,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,1.21189680271554
-2011,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.34734902581968
-2012,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.76689837463722
-2013,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,7.89682221635901
-2014,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-2.28745754534627
-2015,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,13.5699189756018
-2016,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-6.25622309831877
-2017,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,6.97043957569699
-2018,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,5.99999999480818
-2019,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,5.82580347791162
-2020,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,14.4411167031815
-2021,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,8.51725047728557
-2022,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.47993878829698
-2023,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,5.63873790734215
-2000,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,7.5324008913808
-2001,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.38680473746319
-2002,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.31949319163508
-2003,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,2.70886495518994
-2004,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.04223969589074
-2005,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,2.07962524171728
-2006,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.36351725069318
-2007,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.76121645513162
-2008,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.33776466584345
-2009,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,2.83264246375042
-2010,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,2.04837609667361
-2011,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.74555537718064
-2012,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,1.91413431197212
-2013,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.04816645195784
-2014,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.68485765055205
-2015,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,5.25108574133961
-2016,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,1.93420456247351
-2017,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.49999999999999
-2018,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.49999999999999
-2019,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.49999999925812
-2020,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.2300000015
-2021,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.79999999970192
-2022,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.95121146471283
-2023,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.03287784511031
-2000,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-10.5685482847301
-2001,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.78823107072634
-2002,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,10.0236715378038
-2003,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,1.79784592211563
-2004,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-5.20908453826634
-2005,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,10.0327609821667
-2006,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-0.295107913392272
-2007,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,27.2349003817109
-2008,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,10.0926544147252
-2009,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-4.86468263369585
-2010,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.79778894126548
-2011,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-9.7106909750689
-2012,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,24.0956971768593
-2013,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,22.7322185106604
-2014,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,24.9426904491939
-2015,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-20.095907018424
-2016,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,13.4812801388143
-2017,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,7.0
-2018,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.99999999999999
-2019,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,8.61455786939371
-2020,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-24.9650056342879
-2021,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,12.5505962333322
-2022,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,19.0815457797462
-2023,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,6.2244024922
-2000,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-5.82767029419647
-2001,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,22.5196766946539
-2002,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-12.1214391470429
-2003,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,6.42348197584937
-2004,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,6.68843608771157
-2005,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-22.6514103619669
-2006,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,10.4526391786694
-2007,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,30.9474306037274
-2008,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-8.79297923277427
-2009,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,11.8007356874552
-2010,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,8.67083242215409
-2011,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,5.11347951391599
-2012,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.98452151285504
-2013,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,40.6684099518049
-2014,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,9.23229093947022
-2015,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,13.9455123870415
-2016,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,1.56873505378132
-2017,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,24.7414437183254
-2018,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,15.9170371355238
-2019,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,10.0204384290287
-2020,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,1.86096695848978
-2021,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,17.8523758840658
-2022,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,12.8359617326241
-2023,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,204,PT,2025-03-19T00:00:00,2023,15.8856503752506
-2000,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-10.5825534562975
-2001,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,13.4468278020094
-2002,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-3.44254593888425
-2003,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,5.11819291703539
-2004,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-3.80175163229244
-2005,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-4.40837258371566
-2006,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,7.42446224951705
-2007,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,30.3021798265837
-2008,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.21380627980177
-2009,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.74179740244347
-2010,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,7.34962107043667
-2011,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-4.56659687749637
-2012,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,11.3622894637282
-2013,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,30.7710051111943
-2014,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,14.6916958927912
-2015,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-0.967773146801491
-2016,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.30332906025504
-2017,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,14.323232345899
-2018,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.8386861710308
-2019,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.39394794126189
-2020,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,-19.7928049110094
-2021,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,16.7929688414011
-2022,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,18.5315979525969
-2023,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,204,PT,2025-03-19T00:00:00,2023,8.69996508437052
-2000,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,5.85771420543269
-2001,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,5.33313570603937
-2002,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.64303087074482
-2003,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.44357677591658
-2004,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.42968455385082
-2005,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,1.71316456361184
-2006,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.94373882815798
-2007,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,5.98634932177609
-2008,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.89657708429647
-2009,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,2.31929213912838
-2010,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,2.11406472648392
-2011,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,2.96375291904201
-2012,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,4.811223315688
-2013,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,7.19143372144946
-2014,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,6.35767909791932
-2015,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,1.77815106030278
-2016,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.33967342629693
-2017,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,5.67156195150444
-2018,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,6.69725362180888
-2019,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,6.86568662848335
-2020,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,3.84879240030133
-2021,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,7.1554516457574
-2022,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,6.25324491401346
-2023,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,204,PT,2025-03-19T00:00:00,2023,6.35282160914288
-2000,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,710.207977
-2001,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,732.397693
-2002,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,693.713227
-2003,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,579.897426
-2004,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,527.338032
-2005,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,527.258363
-2006,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,522.425625
-2007,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,478.633718
-2008,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,446.000041
-2009,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,470.293423
-2010,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,494.7942622229
-2011,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,471.2486257189
-2012,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,510.5563384543
-2013,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,493.8996238522
-2014,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,493.7573298753
-2015,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,591.2116979826
-2016,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,592.605615063
-2017,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,580.6567495879
-2018,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,555.4464583982
-2019,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,585.9110131804
-2020,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,575.5860045109
-2021,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,554.5306750331
-2022,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,623.7597009112
-2023,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,204,RO,2025-03-19T00:00:00,2023,606.5697501659
-2000,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,28.5512057910914
-2001,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,27.194202295417
-2002,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,27.9662413816201
-2003,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,26.7887616317878
-2004,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,23.6338626598435
-2005,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,24.3009112245372
-2006,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,27.921082167737
-2007,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,37.7522552869041
-2008,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,36.4844386658282
-2009,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,33.7727295964945
-2010,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,34.9856244947704
-2011,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,33.0954235595754
-2012,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,33.9455923059169
-2013,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,39.8790682348552
-2014,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,48.0860145878158
-2015,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,37.2579910055464
-2016,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,39.3027165072767
-2017,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,44.9547686478658
-2018,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,54.1212953441283
-2019,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,48.5280171484594
-2020,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,41.8552923214505
-2021,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,46.071009166333
-2022,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,49.6099635437359
-2023,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,204,PT,2025-03-19T00:00:00,2023,46.0102532026106
+2000,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,9.4180495224013
+2001,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,10.8425100137362
+2002,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,4.84207534572475
+2003,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,9.54244888755722
+2004,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,3.53678323332071
+2005,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,16.1057108456087
+2006,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,19.6647760227163
+2007,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,15.6550615013405
+2008,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,1.39345872319277
+2009,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,-6.40593961472032
+2010,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,-5.88840225663454
+2011,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,-0.87298477500224
+2012,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,-5.90199267050561
+2013,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,4.53073148351166
+2014,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,11.0750306448499
+2015,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,2.22618287554396
+2016,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,7.97299722000005
+2017,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,5.58580913830414
+2018,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,0.392946349031096
+2019,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,-6.90505478190798
+2020,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,-10.1670468011302
+2021,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,-1.67769059498
+2022,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,-1.1422212637765
+2023,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",BN_CAB_XOKA_GD_ZS,72,PT,2025-03-19T00:00:00,2023,-0.601807749300507
+2000,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,39980662.0946022
+2001,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,62330770.2184116
+2002,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,413114106.422066
+2003,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,502760658.627517
+2004,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,440925450.322764
+2005,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,1068064915.48932
+2006,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,725186266.219577
+2007,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,326432107.328475
+2008,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,-534418589.321833
+2009,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,330081514.808116
+2010,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,327120159.832196
+2011,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,257309137.530161
+2012,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,160107465.752681
+2013,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,1307704839.4337
+2014,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,598786309.405178
+2015,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,1092904008.32791
+2016,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,166064083.519871
+2017,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,740904499.712164
+2018,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,-627989607.318341
+2019,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,927055118.848647
+2020,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,921708649.592941
+2021,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,1040726038.82439
+2022,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,-653079439.363847
+2023,A,0,"International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",BN_KLT_PTXL_CD,72,USD,2025-03-19T00:00:00,2023,823148882.480829
+2000,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,0.987700169396242
+2001,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,0.558884523880211
+2002,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,7.50151858437683
+2003,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,5.56528127484831
+2004,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,4.36383657370126
+2005,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,4.24294905100869
+2006,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,4.9088146939669
+2007,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,4.68081345012341
+2008,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,4.85440497340623
+2009,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,2.06256005196384
+2010,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,1.72806134798711
+2011,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,1.94040749024403
+2012,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,1.05040106491218
+2013,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,0.470417841005353
+2014,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,3.33019730942426
+2015,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,2.79773267452093
+2016,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,0.944944816734731
+2017,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,1.61796092921323
+2018,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,1.67893386448585
+2019,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,0.559653498041764
+2020,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,0.212513314006456
+2021,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,-1.70154533730106
+2022,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,3.49190816493543
+2023,A,0,"International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",BX_KLT_DINV_WD_GD_ZS,72,PT,2025-03-19T00:00:00,2023,3.43067994055575
+2000,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,8.32268597800998
+2001,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,7.47976563172273
+2002,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,10.3645611323196
+2003,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,7.56528331713902
+2004,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,6.44916341871367
+2005,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,5.06958018993644
+2006,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,3.89500560934991
+2007,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,4.16816133150311
+2008,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,4.39873200582818
+2009,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,16.3853962429161
+2010,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,14.8752744836522
+2011,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,15.9508587187728
+2012,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,17.7728391392687
+2013,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,17.4581483023392
+2014,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,16.6042841074893
+2015,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,16.9995186828514
+2016,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,15.3799402336298
+2017,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,11.7524342645419
+2018,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,11.4836203837343
+2019,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,9.32339448456644
+2020,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,10.6992155948814
+2021,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,10.6318003846395
+2022,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,9.83885342882201
+2023,A,0,"World Bank, International Debt Statistics.",DT_DOD_DECT_GN_ZS,72,PT,2025-03-19T00:00:00,2023,10.6937016235709
+2012,A,0,"International Monetary Fund, Financial Soundness Indicators.",FB_BNK_CAPA_ZS,72,PT,2025-03-19T00:00:00,2022,7.06078410566687
+2013,A,0,"International Monetary Fund, Financial Soundness Indicators.",FB_BNK_CAPA_ZS,72,PT,2025-03-19T00:00:00,2022,8.38265228013626
+2014,A,0,"International Monetary Fund, Financial Soundness Indicators.",FB_BNK_CAPA_ZS,72,PT,2025-03-19T00:00:00,2022,9.11141269872146
+2015,A,0,"International Monetary Fund, Financial Soundness Indicators.",FB_BNK_CAPA_ZS,72,PT,2025-03-19T00:00:00,2022,8.52432101821958
+2016,A,0,"International Monetary Fund, Financial Soundness Indicators.",FB_BNK_CAPA_ZS,72,PT,2025-03-19T00:00:00,2022,8.44034922621483
+2017,A,0,"International Monetary Fund, Financial Soundness Indicators.",FB_BNK_CAPA_ZS,72,PT,2025-03-19T00:00:00,2022,8.76612972477976
+2018,A,0,"International Monetary Fund, Financial Soundness Indicators.",FB_BNK_CAPA_ZS,72,PT,2025-03-19T00:00:00,2022,8.91952686381326
+2019,A,0,"International Monetary Fund, Financial Soundness Indicators.",FB_BNK_CAPA_ZS,72,PT,2025-03-19T00:00:00,2022,8.91081304800064
+2020,A,0,"International Monetary Fund, Financial Soundness Indicators.",FB_BNK_CAPA_ZS,72,PT,2025-03-19T00:00:00,2022,9.19113083750988
+2021,A,0,"International Monetary Fund, Financial Soundness Indicators.",FB_BNK_CAPA_ZS,72,PT,2025-03-19T00:00:00,2022,8.62583670401559
+2022,A,0,"International Monetary Fund, Financial Soundness Indicators.",FB_BNK_CAPA_ZS,72,PT,2025-03-19T00:00:00,2022,8.9313721362495
+2000,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,24.8591709175374
+2001,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,26.7290416723839
+2002,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,21.460908538314
+2003,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,16.816569647457
+2004,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,13.994111443137
+2005,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,15.8904869813322
+2006,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,20.5493536757064
+2007,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,19.6010926257415
+2008,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,15.7252080622285
+2009,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,17.4791313411833
+2010,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,12.3974795027323
+2011,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,10.9462028718796
+2012,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,9.84524080322996
+2013,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,9.18730550151155
+2014,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,10.266911009258
+2015,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,10.297414998766
+2016,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,10.2345139601368
+2017,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,11.3608810616714
+2018,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,8.69368416094931
+2019,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,8.35244884596834
+2020,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,7.742104293835
+2021,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,6.00373614438294
+2022,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,4.98604558363011
+2023,A,0,"International Monetary Fund, International Financial Statistics and data files.",FI_RES_TOTL_MO,72,RO,2025-03-19T00:00:00,2023,6.96065469946131
+2000,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.227349690922867
+2001,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.366757932989799
+2002,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.449587717732062
+2003,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.673514960397142
+2004,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.741796883822997
+2005,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.69844955663299
+2006,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.527225546187307
+2007,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.537405710301047
+2008,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.630148288112942
+2009,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.6216758592849
+2010,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.800088982795132
+2011,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.809962138048555
+2012,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.844808539275213
+2013,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.82276951756776
+2014,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.74749404925778
+2015,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.875793314702188
+2016,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.900256961796869
+2017,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,0.934965241400444
+2018,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,1.15603595281322
+2019,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,1.27726523422992
+2020,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,1.58578599367687
+2021,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,1.77074062298889
+2022,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,1.90201702632966
+2023,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_IR_ZS,72,RO,2025-03-19T00:00:00,2023,1.70232139408715
+2000,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,1.38636791252089
+2001,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,72.3927567126746
+2002,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,23.2633145281249
+2003,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,14.3146037617422
+2004,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,10.7097382026924
+2005,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,14.40286140937
+2006,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,8.96190998961569
+2007,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,31.4597640661204
+2008,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,21.4609367186341
+2009,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,-1.30263239592676
+2010,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,10.7016322665493
+2011,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,4.44031898265385
+2012,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,9.99402965931591
+2013,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,8.43467430483831
+2014,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,4.59330902875528
+2015,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,19.8754982425946
+2016,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,5.39107685227757
+2017,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,2.71694718031191
+2018,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,8.31894664818532
+2019,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,7.9900812674095
+2020,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,5.89245991324916
+2021,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,5.02038651534101
+2022,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,6.78583095846939
+2023,A,0,"International Monetary Fund, International Financial Statistics and data files.",FM_LBL_BMNY_ZG,72,PT,2025-03-19T00:00:00,2023,9.34827307678739
+2000,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,8.60148514851491
+2001,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,6.55903767014862
+2002,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,8.03279662527486
+2003,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,9.18990265632739
+2004,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,6.94570363654675
+2005,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,8.6102252854644
+2006,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,11.5552187914379
+2007,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,7.08099847172693
+2008,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,12.7021883920076
+2009,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,8.02729703109582
+2010,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,6.94887658743103
+2011,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,8.45987233408583
+2012,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,7.53690261091916
+2013,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,5.88460707056817
+2014,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,4.40225309243427
+2015,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,3.06203169580558
+2016,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,2.81495791361944
+2017,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,3.30828076768219
+2018,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,3.23801558947715
+2019,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,2.77286442863321
+2020,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,1.8903591682421
+2021,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,7.24097765588442
+2022,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,11.665567478802
+2023,A,0,"International Monetary Fund, International Financial Statistics and data files.",FP_CPI_TOTL_ZG,72,PT,2025-03-19T00:00:00,2023,5.0676154934383
+2006,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,12.7764078718965
+2007,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,5.39970787984407
+2008,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,-6.6784381838491
+2009,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,-12.3025848942274
+2010,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,-7.63137908193609
+2011,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,-0.413722615726679
+2012,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,1.1950056439595
+2013,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,5.6742958115929
+2014,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,3.78028216781447
+2015,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,-3.34179121918101
+2016,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,0.349328700578064
+2017,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,-1.13829573413828
+2018,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,-5.3317828493614
+2019,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,-4.21663394733245
+2020,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,-9.61572059814606
+2021,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,-0.0911799499242082
+2022,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_BAL_CASH_GD_ZS,72,PT,2025-03-19T00:00:00,2022,0.0409853010876336
+2006,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,27.5264402404069
+2007,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,26.6174562731084
+2008,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,27.9208998753179
+2009,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,27.6868140219818
+2010,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,23.8833642056949
+2011,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,24.0453261607064
+2012,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,28.0365776616041
+2013,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,26.7403906303594
+2014,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,27.0928299660417
+2015,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,26.3110988512498
+2016,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,21.6300553227647
+2017,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,23.9334963141963
+2018,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,21.740494569157
+2019,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,21.0985509979513
+2020,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,22.2746462234553
+2021,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,22.2295140207709
+2022,A,0,"International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",GC_TAX_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2022,19.6487479969996
+2000,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,0.616597374481771
+2001,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-1.44163133337489
+2002,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,5.20156983099011
+2003,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,1.22002656219532
+2004,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,7.16333374970597
+2005,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-6.32198963444117
+2006,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-3.95660400242116
+2007,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,8.50446947635658
+2008,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,9.12113848301175
+2009,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,9.10559555697614
+2010,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-1.58816711165085
+2011,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,7.9542657686886
+2012,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,6.9660918587299
+2013,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,6.04594159933345
+2014,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,3.21468867196243
+2015,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-0.525990852140595
+2016,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,4.15114474609149
+2017,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-3.33638760264033
+2018,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,2.18639244142369
+2019,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,10.2735978999583
+2020,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,4.01260620535355
+2021,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,3.97411048828032
+2022,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,2.54535543078835
+2023,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_GOVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,4.01387430096536
+2000,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-1.2996152192041
+2001,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-4.4623760264179
+2002,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,4.95316748609953
+2003,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,1.33197051460958
+2004,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,3.07581737457959
+2005,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,10.7754769396238
+2006,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,17.248073976435
+2007,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,8.84712075234229
+2008,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,11.4275380642923
+2009,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,5.05521757552245
+2010,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,7.37413188474964
+2011,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,5.16291547883985
+2012,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,8.45281519963889
+2013,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,8.12907331881934
+2014,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,2.07308027076367
+2015,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,3.56401150533476
+2016,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,2.57090577024925
+2017,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,1.43739497181217
+2018,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,5.36505627667891
+2019,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,3.14300978522783
+2020,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,2.33515458835001
+2021,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,2.50006218058073
+2022,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,3.05488748715487
+2023,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_CON_PRVT_KD_ZG,72,PT,2025-03-19T00:00:00,2023,5.61538673629265
+2000,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,0.803306131724241
+2001,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-4.34432419841306
+2002,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,7.34597846252339
+2003,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-6.99948286192726
+2004,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,7.38901325754711
+2005,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,18.1907677101663
+2006,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,3.13285126172256
+2007,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,8.79573205223521
+2008,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-11.7846565658282
+2009,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-32.0289268061654
+2010,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,18.2009046383757
+2011,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-0.810797889696914
+2012,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,16.7847689362627
+2013,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,39.6684348795382
+2014,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,1.15421975429186
+2015,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-7.36013194477529
+2016,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-8.36840069996936
+2017,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-5.45744865055397
+2018,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,11.8824105874732
+2019,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-8.81769224136181
+2020,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-18.5758682167069
+2021,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,31.6732518022317
+2022,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-5.34693917945209
+2023,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_EXP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-13.7722656329525
+2000,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,34.2646411559757
+2001,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-2.4031868217277
+2002,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,2.72278236176689
+2003,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,3.54451592863623
+2004,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,23.9311024023881
+2005,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-16.3013397808574
+2006,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,14.7309707580475
+2007,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,39.179916248404
+2008,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,195.452140215445
+2009,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-24.4606411607112
+2010,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,27.1060781573031
+2011,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,27.11017374837
+2012,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-4.05074255250501
+2013,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-22.8602954696672
+2014,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,12.4125174075627
+2015,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,11.5365537424952
+2016,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-9.77075051075585
+2017,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,13.9140129716815
+2018,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-0.674469384147997
+2019,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,24.4557259559741
+2020,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,7.7957703686003
+2021,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-7.61131456771473
+2022,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-6.69642067530201
+2023,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_GDI_TOTL_KD_ZG,72,PT,2025-03-19T00:00:00,2023,19.5867429149158
+2000,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-1.9364355517293
+2001,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-1.52637810134667
+2002,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,2.00108159277943
+2003,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-7.3002128536602
+2004,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,17.6176028871138
+2005,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-4.93568083117745
+2006,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,0.0441568196778803
+2007,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,32.4037613268979
+2008,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,39.6845633320276
+2009,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-8.57401187149513
+2010,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,11.0200752761111
+2011,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,11.106791932166
+2012,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,25.2589786322677
+2013,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,14.3076531106963
+2014,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-1.31970082618189
+2015,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,5.83609501129099
+2016,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-20.9216311988484
+2017,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-12.9488864932758
+2018,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,15.9167143477638
+2019,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,11.5721875986499
+2020,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,4.95087308478131
+2021,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,2.34316783688131
+2022,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-11.7386819675908
+2023,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NE_IMP_GNFS_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-7.41880593899454
+2000,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,1.98769583378552
+2001,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,0.250573949689084
+2002,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,6.06953087648317
+2003,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,4.62589474959299
+2004,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,2.70582170611173
+2005,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,4.55664565323181
+2006,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,8.36387109282306
+2007,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,5.79255577727118
+2008,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,3.25207295796832
+2009,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-14.1442346163423
+2010,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,10.1222091179732
+2011,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,6.83852974803483
+2012,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-0.170900761456892
+2013,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,11.1028237779771
+2014,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,5.69477738185952
+2015,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-4.85133564036167
+2016,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,7.20442475914267
+2017,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,4.1143636634186
+2018,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,4.18809355373698
+2019,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,3.0322025744566
+2020,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,-8.72875252639037
+2021,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,11.9206365085117
+2022,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,5.48602817797183
+2023,A,0,"World Bank national accounts data, and OECD National Accounts data files.",NY_GDP_MKTP_KD_ZG,72,PT,2025-03-19T00:00:00,2023,2.73379817032757
+2000,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,5.1018
+2001,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,5.8412
+2002,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,6.327792
+2003,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,4.9499
+2004,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,4.6929
+2005,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,5.1167
+2006,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,5.8303
+2007,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,6.1388
+2008,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,6.826858
+2009,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,7.155142
+2010,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,6.793625
+2011,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,6.838233
+2012,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,7.640525
+2013,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,8.398908
+2014,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,8.976083
+2015,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,10.128992
+2016,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,10.901158
+2017,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,10.347417
+2018,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,10.199975
+2019,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,10.755867
+2020,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,11.456242
+2021,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,11.087258
+2022,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,12.368808
+2023,A,0,"International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",PA_NUS_ATLS,72,RO,2025-03-19T00:00:00,2023,13.5963833333
+2000,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,82.165327843039
+2001,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,78.6759230210286
+2002,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,78.5090418410042
+2003,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,69.9985685923207
+2004,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,75.2891355118093
+2005,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,76.4802000596153
+2006,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,76.7706253862492
+2007,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,87.4492600905223
+2008,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,94.6991130858602
+2009,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,80.8818793850762
+2010,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,81.9005781432183
+2011,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,87.0512225528457
+2012,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,100.636604176485
+2013,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,113.952476822309
+2014,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,107.226277336455
+2015,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,100.171839384222
+2016,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,89.5665647535844
+2017,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,69.536737797491
+2018,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,75.6284814905072
+2019,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,70.5552122802035
+2020,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,72.0440526436457
+2021,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,84.3690739318728
+2022,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,80.7058026297041
+2023,A,0,"World Trade Organization, and World Bank GDP estimates.",TG_VAL_TOTL_GD_ZS,72,PT,2025-03-19T00:00:00,2023,63.2241007264078

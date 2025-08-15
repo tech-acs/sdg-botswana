@@ -1,88 +1,91 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,OCCUPATION,COMPOSITE_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2024,A,0,"Unicameral: (National Assembly), No Data on Age or Gender of the chairperson, Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,_U,_U,None,PC_HUM_RIGH,NUMBER,2025-07-10T00:00:00,2024,1.0
-2021,A,0,"Unicameral: (National Assembly), Chair(s) presides over a committee which covers multuple themes (Defence, Foreign affairs), , Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_FAFF_DEF,NUMBER,2025-07-10T00:00:00,2025,1.0
-2022,A,0,"Unicameral: (National Assembly), Chair(s) presides over a committee which covers multuple themes (Defence, Foreign affairs), , Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_FAFF_DEF,NUMBER,2025-07-10T00:00:00,2025,1.0
-2023,A,0,"Unicameral: (National Assembly), Chair(s) presides over a committee which covers multuple themes (Defence, Foreign affairs), , Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_FAFF_DEF,NUMBER,2025-07-10T00:00:00,2025,1.0
-2024,A,0,"Unicameral: (National Assembly), Chair(s) presides over a committee which covers multuple themes (Defence, Foreign affairs), , Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_FAFF_DEF,NUMBER,2025-07-10T00:00:00,2025,1.0
-2025,A,0,"Unicameral: (National Assembly), Chair(s) presides over a committee which covers multuple themes (Defence, Foreign affairs), , Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_FAFF_DEF,NUMBER,2025-07-10T00:00:00,2025,1.0
-2021,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_FINANCE,NUMBER,2025-07-10T00:00:00,2025,1.0
-2022,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_FINANCE,NUMBER,2025-07-10T00:00:00,2025,1.0
-2023,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_FINANCE,NUMBER,2025-07-10T00:00:00,2025,1.0
-2024,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_FINANCE,NUMBER,2025-07-10T00:00:00,2025,1.0
-2025,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_FINANCE,NUMBER,2025-07-10T00:00:00,2025,1.0
-2021,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_GEN_EQU,NUMBER,2025-07-10T00:00:00,2025,1.0
-2022,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_GEN_EQU,NUMBER,2025-07-10T00:00:00,2025,1.0
-2023,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_GEN_EQU,NUMBER,2025-07-10T00:00:00,2025,1.0
-2024,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_GEN_EQU,NUMBER,2025-07-10T00:00:00,2025,1.0
-2025,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_GEN_EQU,NUMBER,2025-07-10T00:00:00,2025,1.0
-2021,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_HUM_RIGH,NUMBER,2025-07-10T00:00:00,2025,1.0
-2022,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_HUM_RIGH,NUMBER,2025-07-10T00:00:00,2025,1.0
-2023,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_HUM_RIGH,NUMBER,2025-07-10T00:00:00,2025,1.0
-2025,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,204,M,Y_GE46,None,PC_HUM_RIGH,NUMBER,2025-07-10T00:00:00,2025,1.0
-2021,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year;  2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,OCCUPATION,COMPOSITE_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,COMMENT_OBS,Value
+2024,A,0,Administration of Justice,SG_DMK_JDC,72,F,None,ISCO08_2612,None,RO,2025-03-24T00:00:00,2024,,1.02804
+2024,A,0,Administration of Justice,SG_DMK_JDC,72,F,None,ISCO08_2619R,None,RO,2025-03-24T00:00:00,2024,,1.4
+2024,A,0,Administration of Justice,SG_DMK_JDC,72,M,None,ISCO08_2612,None,RO,2025-03-24T00:00:00,2024,,0.97196
+2024,A,0,Administration of Justice,SG_DMK_JDC,72,M,None,ISCO08_2619R,None,RO,2025-03-24T00:00:00,2024,,0.6
+2025,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,_U,_U,None,PC_FAFF_DEF,NUMBER,2025-07-10T00:00:00,2025,"Unicameral: (National Assembly), Chair(s) presides over a committee which covers multuple themes (Defence, Foreign affairs), No Data on Age or Gender of the chairperson, Data valid as of 1 Jan of given year",1.0
+2021,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,_X,_X,None,PC_GEN_EQU,NUMBER,2025-07-10T00:00:00,2024,"Unicameral: (National Assembly), No Committee, Data valid as of 1 Jan of given year",0.0
+2022,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,_X,_X,None,PC_GEN_EQU,NUMBER,2025-07-10T00:00:00,2024,"Unicameral: (National Assembly), No Committee, Data valid as of 1 Jan of given year",0.0
+2023,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,_X,_X,None,PC_GEN_EQU,NUMBER,2025-07-10T00:00:00,2024,"Unicameral: (National Assembly), No Committee, Data valid as of 1 Jan of given year",0.0
+2024,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,_X,_X,None,PC_GEN_EQU,NUMBER,2025-07-10T00:00:00,2024,"Unicameral: (National Assembly), No Committee, Data valid as of 1 Jan of given year",0.0
+2021,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,_X,_X,None,PC_HUM_RIGH,NUMBER,2025-07-10T00:00:00,2024,"Unicameral: (National Assembly), No Committee, Data valid as of 1 Jan of given year",0.0
+2022,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,_X,_X,None,PC_HUM_RIGH,NUMBER,2025-07-10T00:00:00,2024,"Unicameral: (National Assembly), No Committee, Data valid as of 1 Jan of given year",0.0
+2023,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,_X,_X,None,PC_HUM_RIGH,NUMBER,2025-07-10T00:00:00,2024,"Unicameral: (National Assembly), No Committee, Data valid as of 1 Jan of given year",0.0
+2024,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,_X,_X,None,PC_HUM_RIGH,NUMBER,2025-07-10T00:00:00,2024,"Unicameral: (National Assembly), No Committee, Data valid as of 1 Jan of given year",0.0
+2025,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,M,_U,None,PC_FINANCE,NUMBER,2025-07-10T00:00:00,2025,"Unicameral: (National Assembly), No Age Data, Data valid as of 1 Jan of given year",1.0
+2021,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,M,Y_GE46,None,PC_FAFF_DEF,NUMBER,2025-07-10T00:00:00,2024,"Unicameral: (National Assembly), Chair(s) presides over a committee which covers multuple themes (Foreign affairs, Defence), , Data valid as of 1 Jan of given year",1.0
+2022,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,M,Y_GE46,None,PC_FAFF_DEF,NUMBER,2025-07-10T00:00:00,2024,"Unicameral: (National Assembly), Chair(s) presides over a committee which covers multuple themes (Foreign affairs, Defence), , Data valid as of 1 Jan of given year",1.0
+2023,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,M,Y_GE46,None,PC_FAFF_DEF,NUMBER,2025-07-10T00:00:00,2024,"Unicameral: (National Assembly), Chair(s) presides over a committee which covers multuple themes (Foreign affairs, Defence), , Data valid as of 1 Jan of given year",1.0
+2024,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,M,Y_GE46,None,PC_FAFF_DEF,NUMBER,2025-07-10T00:00:00,2024,"Unicameral: (National Assembly), Chair(s) presides over a committee which covers multuple themes (Foreign affairs, Defence), , Data valid as of 1 Jan of given year",1.0
+2022,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,M,Y_GE46,None,PC_FINANCE,NUMBER,2025-07-10T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year",1.0
+2023,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,M,Y_GE46,None,PC_FINANCE,NUMBER,2025-07-10T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year",1.0
+2024,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,M,Y_GE46,None,PC_FINANCE,NUMBER,2025-07-10T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year",1.0
+2021,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLCC_LC,72,M,Y0T45,None,PC_FINANCE,NUMBER,2025-07-10T00:00:00,2021,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year",1.0
+2021,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLMP_LC,72,None,None,None,None,RO,2025-07-10T00:00:00,2025,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year;  2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  
 -	0 means no representation at all of women in parliament 
 -	1 means perfectly proportional representation of women  in parliament 
 -	<1 means under-representation of women in parliament 
--	>1 means over-representation of women in parliament","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLMP_LC,204,None,None,None,None,RO,2025-07-10T00:00:00,2025,0.16459
-2022,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year;  2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  
+-	>1 means over-representation of women in parliament",0.20342
+2022,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLMP_LC,72,None,None,None,None,RO,2025-07-10T00:00:00,2025,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year;  2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  
 -	0 means no representation at all of women in parliament 
 -	1 means perfectly proportional representation of women  in parliament 
 -	<1 means under-representation of women in parliament 
--	>1 means over-representation of women in parliament","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLMP_LC,204,None,None,None,None,RO,2025-07-10T00:00:00,2025,0.14456
-2023,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year;  2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  
+-	>1 means over-representation of women in parliament",0.20987
+2023,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLMP_LC,72,None,None,None,None,RO,2025-07-10T00:00:00,2025,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year;  2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  
 -	0 means no representation at all of women in parliament 
 -	1 means perfectly proportional representation of women  in parliament 
 -	<1 means under-representation of women in parliament 
--	>1 means over-representation of women in parliament","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLMP_LC,204,None,None,None,None,RO,2025-07-10T00:00:00,2025,0.14552
-2024,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year;  2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  
+-	>1 means over-representation of women in parliament",0.21606
+2024,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLMP_LC,72,None,None,None,None,RO,2025-07-10T00:00:00,2025,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year;  2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  
 -	0 means no representation at all of women in parliament 
 -	1 means perfectly proportional representation of women  in parliament 
 -	<1 means under-representation of women in parliament 
--	>1 means over-representation of women in parliament","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLMP_LC,204,None,None,None,None,RO,2025-07-10T00:00:00,2025,0.52268
-2025,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year;  2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  
+-	>1 means over-representation of women in parliament",0.21606
+2025,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLMP_LC,72,None,None,None,None,RO,2025-07-10T00:00:00,2025,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year;  2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  
 -	0 means no representation at all of women in parliament 
 -	1 means perfectly proportional representation of women  in parliament 
 -	<1 means under-representation of women in parliament 
--	>1 means over-representation of women in parliament","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLMP_LC,204,None,None,None,None,RO,2025-07-10T00:00:00,2025,0.524029
-2021,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLSP_LC,204,M,Y_GE46,None,None,NUMBER,2025-05-13T00:00:00,2025,1.0
-2022,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLSP_LC,204,M,Y_GE46,None,None,NUMBER,2025-05-13T00:00:00,2025,1.0
-2023,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLSP_LC,204,M,Y_GE46,None,None,NUMBER,2025-05-13T00:00:00,2025,1.0
-2024,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLSP_LC,204,M,Y_GE46,None,None,NUMBER,2025-05-13T00:00:00,2025,1.0
-2025,A,0,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLSP_LC,204,M,Y_GE46,None,None,NUMBER,2025-05-13T00:00:00,2025,1.0
-2021,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYN_LC,204,None,Y0T45,None,None,NUMBER,2025-05-13T00:00:00,2025,10.0
-2022,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYN_LC,204,None,Y0T45,None,None,NUMBER,2025-05-13T00:00:00,2025,10.0
-2023,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYN_LC,204,None,Y0T45,None,None,NUMBER,2025-05-13T00:00:00,2025,10.0
-2024,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYN_LC,204,None,Y0T45,None,None,NUMBER,2025-05-13T00:00:00,2025,25.0
-2025,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYN_LC,204,None,Y0T45,None,None,NUMBER,2025-05-13T00:00:00,2025,26.0
-2021,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYP_LC,204,None,Y0T45,None,None,PT,2025-05-13T00:00:00,2025,12.05
-2022,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYP_LC,204,None,Y0T45,None,None,PT,2025-05-13T00:00:00,2025,12.05
-2023,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYP_LC,204,None,Y0T45,None,None,PT,2025-05-13T00:00:00,2025,12.05
-2024,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYP_LC,204,None,Y0T45,None,None,PT,2025-05-13T00:00:00,2025,22.94
-2025,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYP_LC,204,None,Y0T45,None,None,PT,2025-05-13T00:00:00,2025,23.9
-2021,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year; 2023 population figures (revised as of July 2024) used from the United Nations Population Division - World Population Prospects database to calculate ratios; Ratios can be interpreted as follows:  
+-	>1 means over-representation of women in parliament",0.172484
+2021,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLSP_LC,72,M,Y_GE46,None,None,NUMBER,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year",1.0
+2022,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLSP_LC,72,M,Y_GE46,None,None,NUMBER,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year",1.0
+2023,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLSP_LC,72,M,Y_GE46,None,None,NUMBER,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year",1.0
+2024,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLSP_LC,72,M,Y_GE46,None,None,NUMBER,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year",1.0
+2025,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLSP_LC,72,M,Y0T45,None,None,NUMBER,2025-05-13T00:00:00,2025,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year",1.0
+2021,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYN_LC,72,None,Y0T45,None,None,NUMBER,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election",10.0
+2022,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYN_LC,72,None,Y0T45,None,None,NUMBER,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election",10.0
+2023,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYN_LC,72,None,Y0T45,None,None,NUMBER,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election",10.0
+2024,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYN_LC,72,None,Y0T45,None,None,NUMBER,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election",10.0
+2021,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYP_LC,72,None,Y0T45,None,None,PT,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election",15.87
+2022,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYP_LC,72,None,Y0T45,None,None,PT,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election",15.87
+2023,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYP_LC,72,None,Y0T45,None,None,PT,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election",15.87
+2024,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYP_LC,72,None,Y0T45,None,None,PT,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election",15.87
+2021,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYR_LC,72,None,Y0T45,None,None,RO,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year; 2021 population figures (revised as of July 2022) used from the United Nations Population Division - World Population Prospects database to calculate ratios; Ratios can be interpreted as follows:  
 -	0 means no representation at all of ‘youth’ (45 years and below) in parliament 
 -	1 means perfectly proportional representation of ‘youth’ (45 years and below) in parliament 
 -	<1 means under-representation of ‘youth’ (45 years and below) in parliament 
--	>1 means over-representation of ‘youth’ (45 years and below) in parliament","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYR_LC,204,None,Y0T45,None,None,RO,2025-05-13T00:00:00,2025,0.18497
-2022,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year; 2023 population figures (revised as of July 2024) used from the United Nations Population Division - World Population Prospects database to calculate ratios; Ratios can be interpreted as follows:  
+-	>1 means over-representation of ‘youth’ (45 years and below) in parliament",0.2201
+2022,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYR_LC,72,None,Y0T45,None,None,RO,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year; 2021 population figures (revised as of July 2022) used from the United Nations Population Division - World Population Prospects database to calculate ratios; Ratios can be interpreted as follows:  
 -	0 means no representation at all of ‘youth’ (45 years and below) in parliament 
 -	1 means perfectly proportional representation of ‘youth’ (45 years and below) in parliament 
 -	<1 means under-representation of ‘youth’ (45 years and below) in parliament 
--	>1 means over-representation of ‘youth’ (45 years and below) in parliament","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYR_LC,204,None,Y0T45,None,None,RO,2025-05-13T00:00:00,2025,0.18497
-2023,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year; 2023 population figures (revised as of July 2024) used from the United Nations Population Division - World Population Prospects database to calculate ratios; Ratios can be interpreted as follows:  
+-	>1 means over-representation of ‘youth’ (45 years and below) in parliament",0.2201
+2023,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYR_LC,72,None,Y0T45,None,None,RO,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year; 2021 population figures (revised as of July 2022) used from the United Nations Population Division - World Population Prospects database to calculate ratios; Ratios can be interpreted as follows:  
 -	0 means no representation at all of ‘youth’ (45 years and below) in parliament 
 -	1 means perfectly proportional representation of ‘youth’ (45 years and below) in parliament 
 -	<1 means under-representation of ‘youth’ (45 years and below) in parliament 
--	>1 means over-representation of ‘youth’ (45 years and below) in parliament","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYR_LC,204,None,Y0T45,None,None,RO,2025-05-13T00:00:00,2025,0.18355
-2024,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year; 2023 population figures (revised as of July 2024) used from the United Nations Population Division - World Population Prospects database to calculate ratios; Ratios can be interpreted as follows:  
+-	>1 means over-representation of ‘youth’ (45 years and below) in parliament",0.21611
+2024,A,0,"Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYR_LC,72,None,Y0T45,None,None,RO,2025-05-13T00:00:00,2024,"Unicameral: (National Assembly), Data valid as of 1 Jan of given year; 2021 population figures (revised as of July 2022) used from the United Nations Population Division - World Population Prospects database to calculate ratios; Ratios can be interpreted as follows:  
 -	0 means no representation at all of ‘youth’ (45 years and below) in parliament 
 -	1 means perfectly proportional representation of ‘youth’ (45 years and below) in parliament 
 -	<1 means under-representation of ‘youth’ (45 years and below) in parliament 
--	>1 means over-representation of ‘youth’ (45 years and below) in parliament","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYR_LC,204,None,Y0T45,None,None,RO,2025-05-13T00:00:00,2025,0.34943
-2025,A,0,"Unicameral: - (National Assembly), Data valid as of 1 Jan of given year; 2023 population figures (revised as of July 2024) used from the United Nations Population Division - World Population Prospects database to calculate ratios; Ratios can be interpreted as follows:  
--	0 means no representation at all of ‘youth’ (45 years and below) in parliament 
--	1 means perfectly proportional representation of ‘youth’ (45 years and below) in parliament 
--	<1 means under-representation of ‘youth’ (45 years and below) in parliament 
--	>1 means over-representation of ‘youth’ (45 years and below) in parliament","Inter-Parliamentary Union (IPU), Parline Database",SG_DMK_PARLYR_LC,204,None,Y0T45,None,None,RO,2025-05-13T00:00:00,2025,0.36321
-2022,A,0,84 - Public administration and defence; compulsory social security,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,SG_DMK_PSRVC,204,F,None,AGG_PSP,None,RO,2025-03-24T00:00:00,2022,0.1913
-2022,A,0,84 - Public administration and defence; compulsory social security,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,SG_DMK_PSRVC,204,M,None,AGG_PSP,None,RO,2025-03-24T00:00:00,2022,1.8087
+-	>1 means over-representation of ‘youth’ (45 years and below) in parliament",0.21611
+2019,A,0,HS - Multi-Topic Household Survey,SG_DMK_PSRVC,72,F,None,AGG_PSP,None,RO,2025-03-24T00:00:00,2023,84 - Public administration and defence; compulsory social security,1.16736
+2020,A,0,HS - Multi-Topic Household Survey,SG_DMK_PSRVC,72,F,None,AGG_PSP,None,RO,2025-03-24T00:00:00,2023,84 - Public administration and defence; compulsory social security,1.18292
+2021,A,0,HS - Multi-Topic Household Survey,SG_DMK_PSRVC,72,F,None,AGG_PSP,None,RO,2025-03-24T00:00:00,2023,84 - Public administration and defence; compulsory social security,1.26167
+2022,A,0,HS - Multi-Topic Household Survey,SG_DMK_PSRVC,72,F,None,AGG_PSP,None,RO,2025-03-24T00:00:00,2023,84 - Public administration and defence; compulsory social security,1.25553
+2023,A,0,HS - Multi-Topic Household Survey,SG_DMK_PSRVC,72,F,None,AGG_PSP,None,RO,2025-03-24T00:00:00,2023,84 - Public administration and defence; compulsory social security,1.24843
+2019,A,0,HS - Multi-Topic Household Survey,SG_DMK_PSRVC,72,M,None,AGG_PSP,None,RO,2025-03-24T00:00:00,2023,84 - Public administration and defence; compulsory social security,0.83264
+2020,A,0,HS - Multi-Topic Household Survey,SG_DMK_PSRVC,72,M,None,AGG_PSP,None,RO,2025-03-24T00:00:00,2023,84 - Public administration and defence; compulsory social security,0.81708
+2021,A,0,HS - Multi-Topic Household Survey,SG_DMK_PSRVC,72,M,None,AGG_PSP,None,RO,2025-03-24T00:00:00,2023,84 - Public administration and defence; compulsory social security,0.73833
+2022,A,0,HS - Multi-Topic Household Survey,SG_DMK_PSRVC,72,M,None,AGG_PSP,None,RO,2025-03-24T00:00:00,2023,84 - Public administration and defence; compulsory social security,0.74447
+2023,A,0,HS - Multi-Topic Household Survey,SG_DMK_PSRVC,72,M,None,AGG_PSP,None,RO,2025-03-24T00:00:00,2023,84 - Public administration and defence; compulsory social security,0.75157

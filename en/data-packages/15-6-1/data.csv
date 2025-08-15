@@ -1,45 +1,44 @@
 Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2018,A,0,"ABS measures reported refers to legislative, administrative and policy framework or measures reported to the ABS Clearing-House. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.",https://absch.cbd.int/countries,ER_CBD_ABSCLRHS,204,NUMBER,2025-02-13T00:00:00,2014-2024,1
-2021,A,0,"ABS measures reported refers to legislative, administrative and policy framework or measures reported to the ABS Clearing-House. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.",https://absch.cbd.int/countries,ER_CBD_ABSCLRHS,204,NUMBER,2025-02-13T00:00:00,2014-2024,1
-2022,A,0,"ABS measures reported refers to legislative, administrative and policy framework or measures reported to the ABS Clearing-House. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.",https://absch.cbd.int/countries,ER_CBD_ABSCLRHS,204,NUMBER,2025-02-13T00:00:00,2014-2024,1
-2023,A,0,"ABS measures reported refers to legislative, administrative and policy framework or measures reported to the ABS Clearing-House. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.",https://absch.cbd.int/countries,ER_CBD_ABSCLRHS,204,NUMBER,2025-02-13T00:00:00,2014-2024,1
-2024,A,0,"ABS measures reported refers to legislative, administrative and policy framework or measures reported to the ABS Clearing-House. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.",https://absch.cbd.int/countries,ER_CBD_ABSCLRHS,204,NUMBER,2025-02-13T00:00:00,2014-2024,1
-2021,A,0,"Parties  refers to Parties to the Convention on Biological Diversity that have ratified, accepted, approved or acceded the Nagoya Protocol, including those for which the Protocol has not yet entered into force following the 90 days period set out in Artic","https://www.cbd.int/abs/nagoya-protocol/signatories/default.shtml, Access and Benefit-sharing Clearing-house https://absch.cbd.int/, http://www.fao.org/plant-treaty/countries/membership/en/,  The Online Reporting System on Compliance of the International",ER_CBD_NAGOYA,204,NUMBER,2025-02-13T00:00:00,2014-2024,1
-2022,A,0,"Parties  refers to Parties to the Convention on Biological Diversity that have ratified, accepted, approved or acceded the Nagoya Protocol, including those for which the Protocol has not yet entered into force following the 90 days period set out in Artic","https://www.cbd.int/abs/nagoya-protocol/signatories/default.shtml, Access and Benefit-sharing Clearing-house https://absch.cbd.int/, http://www.fao.org/plant-treaty/countries/membership/en/,  The Online Reporting System on Compliance of the International",ER_CBD_NAGOYA,204,NUMBER,2025-02-13T00:00:00,2014-2024,1
-2023,A,0,"Parties  refers to Parties to the Convention on Biological Diversity that have ratified, accepted, approved or acceded the Nagoya Protocol, including those for which the Protocol has not yet entered into force following the 90 days period set out in Artic","https://www.cbd.int/abs/nagoya-protocol/signatories/default.shtml, Access and Benefit-sharing Clearing-house https://absch.cbd.int/, http://www.fao.org/plant-treaty/countries/membership/en/,  The Online Reporting System on Compliance of the International",ER_CBD_NAGOYA,204,NUMBER,2025-02-13T00:00:00,2014-2024,1
-2024,A,0,"Parties  refers to Parties to the Convention on Biological Diversity that have ratified, accepted, approved or acceded the Nagoya Protocol, including those for which the Protocol has not yet entered into force following the 90 days period set out in Artic","https://www.cbd.int/abs/nagoya-protocol/signatories/default.shtml, Access and Benefit-sharing Clearing-house https://absch.cbd.int/, http://www.fao.org/plant-treaty/countries/membership/en/,  The Online Reporting System on Compliance of the International",ER_CBD_NAGOYA,204,NUMBER,2025-02-13T00:00:00,2014-2024,1
-2016,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,0
-2017,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,0
-2018,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,0
-2019,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,0
-2020,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,0
-2021,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,0
-2022,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,0
-2023,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,0
-2024,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,0
-2012,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,1
-2013,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,1
-2014,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,1
-2015,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,1
-2016,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,1
-2017,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,1
-2018,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,1
-2019,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,1
-2020,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,1
-2021,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,1
-2022,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,1
-2023,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,1
-2024,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,204,NUMBER,2025-03-24T00:00:00,2024,1
-2012,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,204,NUMBER,2025-05-19T00:00:00,2024,55
-2013,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,204,NUMBER,2025-05-19T00:00:00,2024,71
-2014,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,204,NUMBER,2025-05-19T00:00:00,2024,77
-2015,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,204,NUMBER,2025-05-19T00:00:00,2024,81
-2016,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,204,NUMBER,2025-05-19T00:00:00,2024,93
-2017,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,204,NUMBER,2025-05-19T00:00:00,2024,97
-2018,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,204,NUMBER,2025-05-19T00:00:00,2024,109
-2019,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,204,NUMBER,2025-05-19T00:00:00,2024,125
-2020,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,204,NUMBER,2025-05-19T00:00:00,2024,132
-2021,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,204,NUMBER,2025-05-19T00:00:00,2024,138
-2022,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,204,NUMBER,2025-05-19T00:00:00,2024,141
-2023,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,204,NUMBER,2025-05-19T00:00:00,2024,146
-2024,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,204,NUMBER,2025-05-19T00:00:00,2024,147
+2021,A,0,"ABS measures reported refers to legislative, administrative and policy framework or measures reported to the ABS Clearing-House. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.",https://absch.cbd.int/countries,ER_CBD_ABSCLRHS,72,NUMBER,2025-02-13T00:00:00,2014-2024,0
+2022,A,0,"ABS measures reported refers to legislative, administrative and policy framework or measures reported to the ABS Clearing-House. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.",https://absch.cbd.int/countries,ER_CBD_ABSCLRHS,72,NUMBER,2025-02-13T00:00:00,2014-2024,0
+2023,A,0,"ABS measures reported refers to legislative, administrative and policy framework or measures reported to the ABS Clearing-House. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.",https://absch.cbd.int/countries,ER_CBD_ABSCLRHS,72,NUMBER,2025-02-13T00:00:00,2014-2024,0
+2024,A,0,"ABS measures reported refers to legislative, administrative and policy framework or measures reported to the ABS Clearing-House. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.",https://absch.cbd.int/countries,ER_CBD_ABSCLRHS,72,NUMBER,2025-02-13T00:00:00,2014-2024,0
+2021,A,0,"Parties  refers to Parties to the Convention on Biological Diversity that have ratified, accepted, approved or acceded the Nagoya Protocol, including those for which the Protocol has not yet entered into force following the 90 days period set out in Artic","https://www.cbd.int/abs/nagoya-protocol/signatories/default.shtml, Access and Benefit-sharing Clearing-house https://absch.cbd.int/, http://www.fao.org/plant-treaty/countries/membership/en/,  The Online Reporting System on Compliance of the International",ER_CBD_NAGOYA,72,NUMBER,2025-02-13T00:00:00,2013-2024,1
+2022,A,0,"Parties  refers to Parties to the Convention on Biological Diversity that have ratified, accepted, approved or acceded the Nagoya Protocol, including those for which the Protocol has not yet entered into force following the 90 days period set out in Artic","https://www.cbd.int/abs/nagoya-protocol/signatories/default.shtml, Access and Benefit-sharing Clearing-house https://absch.cbd.int/, http://www.fao.org/plant-treaty/countries/membership/en/,  The Online Reporting System on Compliance of the International",ER_CBD_NAGOYA,72,NUMBER,2025-02-13T00:00:00,2013-2024,1
+2023,A,0,"Parties  refers to Parties to the Convention on Biological Diversity that have ratified, accepted, approved or acceded the Nagoya Protocol, including those for which the Protocol has not yet entered into force following the 90 days period set out in Artic","https://www.cbd.int/abs/nagoya-protocol/signatories/default.shtml, Access and Benefit-sharing Clearing-house https://absch.cbd.int/, http://www.fao.org/plant-treaty/countries/membership/en/,  The Online Reporting System on Compliance of the International",ER_CBD_NAGOYA,72,NUMBER,2025-02-13T00:00:00,2013-2024,1
+2024,A,0,"Parties  refers to Parties to the Convention on Biological Diversity that have ratified, accepted, approved or acceded the Nagoya Protocol, including those for which the Protocol has not yet entered into force following the 90 days period set out in Artic","https://www.cbd.int/abs/nagoya-protocol/signatories/default.shtml, Access and Benefit-sharing Clearing-house https://absch.cbd.int/, http://www.fao.org/plant-treaty/countries/membership/en/,  The Online Reporting System on Compliance of the International",ER_CBD_NAGOYA,72,NUMBER,2025-02-13T00:00:00,2013-2024,1
+2016,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2017,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2018,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2019,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2020,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2021,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2022,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2023,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2024,A,0,,ITPGRFA Secretariat,ER_CBD_ORSPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2012,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2013,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2014,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2015,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2016,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2017,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2018,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2019,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2020,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2021,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2022,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2023,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2024,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_PTYPGRFA,72,NUMBER,2025-03-24T00:00:00,2024,0
+2012,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,72,NUMBER,2025-05-19T00:00:00,2024,14
+2013,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,72,NUMBER,2025-05-19T00:00:00,2024,14
+2014,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,72,NUMBER,2025-05-19T00:00:00,2024,16
+2015,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,72,NUMBER,2025-05-19T00:00:00,2024,19
+2016,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,72,NUMBER,2025-05-19T00:00:00,2024,20
+2017,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,72,NUMBER,2025-05-19T00:00:00,2024,20
+2018,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,72,NUMBER,2025-05-19T00:00:00,2024,21
+2019,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,72,NUMBER,2025-05-19T00:00:00,2024,22
+2020,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,72,NUMBER,2025-05-19T00:00:00,2024,22
+2021,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,72,NUMBER,2025-05-19T00:00:00,2024,24
+2022,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,72,NUMBER,2025-05-19T00:00:00,2024,26
+2023,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,72,NUMBER,2025-05-19T00:00:00,2024,26
+2024,A,0,Cumulative value.,ITPGRFA Secretariat,ER_CBD_SMTA,72,NUMBER,2025-05-19T00:00:00,2024,27

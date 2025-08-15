@@ -1,1 +1,4 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,COMMENT_OBS,Value
+2005,A,0,UNESCO Institute for Statistics.  Data extracted on 25 February 2025.,GB_XPD_RSDV,72,PT,2025-03-05T00:00:00,2013,Break in series with previous year for which data are available,0.53286
+2012,A,0,UNESCO Institute for Statistics.  Data extracted on 25 February 2025.,GB_XPD_RSDV,72,PT,2025-03-05T00:00:00,2013,Break in series with previous year for which data are available,0.26759
+2013,A,0,UNESCO Institute for Statistics.  Data extracted on 25 February 2025.,GB_XPD_RSDV,72,PT,2025-03-05T00:00:00,2013,Break in series with previous year for which data are available,0.561

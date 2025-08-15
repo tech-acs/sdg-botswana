@@ -1,3 +1,1 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2022,A,0,"Since 2021, proportions are only considered for countries, territories and areas reporting ≥ 10 bacteriologically confirmed bloodstream infections with antimicrobial susceptibility test results in one calendar year.",AMR Surveillance National Coordinating Center,SH_BLD_ECOLI,204,PT,2025-05-28T00:00:00,Q1 2022 - Q4 2022,73.07692
-2022,A,0,"Since 2021, proportions are only considered for countries, territories and areas reporting ≥ 10 bacteriologically confirmed bloodstream infections with antimicrobial susceptibility test results in one calendar year.",AMR Surveillance National Coordinating Center,SH_BLD_MRSA,204,PT,2025-05-28T00:00:00,Q1 2022 - Q4 2022,52.5641
+Year,Value

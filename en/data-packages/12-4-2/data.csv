@@ -1,78 +1,37 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,COMPOSITE_BREAKDOWN,ACTIVITY,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,BASE_PER,Value
-2021,A,0,Quantity resulting from sorting and intended for valorization.,"UN Statistics Division, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files) - UNSD/UNEP Questionnaire",EN_EWT_COLLR,204,None,None,PT,2025-03-21T00:00:00,2022,,0.01529
-2022,A,0,Quantity resulting from sorting and intended for valorization.,"UN Statistics Division, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files) - UNSD/UNEP Questionnaire",EN_EWT_COLLR,204,None,None,PT,2025-03-21T00:00:00,2022,,0.15579
-2000,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2001,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2002,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2003,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2004,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2005,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2006,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2007,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2008,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2009,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2010,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2011,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2012,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2013,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2014,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2015,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2016,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2017,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2018,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2019,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2020,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,673.0
-2021,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_EXP,204,None,None,T,2025-03-21T00:00:00,2021,,429.0
-2002,A,0,,UNEP / WESR,EN_HAZ_GENGDP,204,None,None,KG_PER_CON_USD,2025-03-21T00:00:00,2002,2015,0.00025
-2002,A,0,Data refer to biomedical waste.,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_GENV,204,None,None,T,2025-03-21T00:00:00,2002,,1698.0
-2000,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2001,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2002,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2003,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2004,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2005,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2006,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2007,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2008,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2009,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2010,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2011,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2012,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2013,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2014,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2015,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2016,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2017,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2018,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2019,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2020,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2021,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_IMP,204,None,None,T,2025-03-21T00:00:00,2021,,0.0
-2002,A,0,,UNEP / WESR,EN_HAZ_PCAP,204,None,None,KG,2025-03-21T00:00:00,2002,,0.22848
-2002,A,0,Data refer to biomedical waste.,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_TREATV,204,WT_INCINRT,None,T,2025-03-21T00:00:00,2002,,1698.0
-2000,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_TREATV,204,WT_LANDFIL,None,T,2025-03-21T00:00:00,2002,,0.0
-2001,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_TREATV,204,WT_LANDFIL,None,T,2025-03-21T00:00:00,2002,,0.0
-2002,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_HAZ_TREATV,204,WT_LANDFIL,None,T,2025-03-21T00:00:00,2002,,0.0
-2020,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_COLLV,204,None,None,T,2025-03-21T00:00:00,2022,,110267.3
-2021,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_COLLV,204,None,None,T,2025-03-21T00:00:00,2022,,339476.7
-2022,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_COLLV,204,None,None,T,2025-03-21T00:00:00,2022,,396425.8
-2020,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_EXP,204,None,None,T,2025-03-21T00:00:00,2022,,0.0
-2021,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_EXP,204,None,None,T,2025-03-21T00:00:00,2022,,0.0
-2022,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_EXP,204,None,None,T,2025-03-21T00:00:00,2022,,0.0
-2020,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_IMP,204,None,None,T,2025-03-21T00:00:00,2022,,0.0
-2021,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_IMP,204,None,None,T,2025-03-21T00:00:00,2022,,0.0
-2022,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_IMP,204,None,None,T,2025-03-21T00:00:00,2022,,0.0
-2020,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_TREATR,204,WT_LANDFIL,None,PT,2025-03-21T00:00:00,2022,,100.0
-2021,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_TREATR,204,WT_LANDFIL,None,PT,2025-03-21T00:00:00,2022,,99.98471
-2022,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_TREATR,204,WT_LANDFIL,None,PT,2025-03-21T00:00:00,2022,,99.84421
-2020,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_TREATR,204,WT_OTHERWM,None,PT,2025-03-21T00:00:00,2022,,100.00245
-2021,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_TREATR,204,WT_OTHERWM,None,PT,2025-03-21T00:00:00,2022,,99.9833
-2022,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_TREATR,204,WT_OTHERWM,None,PT,2025-03-21T00:00:00,2022,,99.84466
-2020,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_TREATV,204,WT_LANDFIL,None,T,2025-03-21T00:00:00,2022,,110267.3
-2021,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_TREATV,204,WT_LANDFIL,None,T,2025-03-21T00:00:00,2022,,339424.8
-2022,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_TREATV,204,WT_LANDFIL,None,T,2025-03-21T00:00:00,2022,,395808.2
-2020,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_TREATV,204,WT_LANDFILCTL,None,T,2025-03-21T00:00:00,2022,,110270.0
-2021,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_TREATV,204,WT_LANDFILCTL,None,T,2025-03-21T00:00:00,2022,,339420.0
-2022,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_TREATV,204,WT_LANDFILCTL,None,T,2025-03-21T00:00:00,2022,,395810.0
-2000,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_TWT_GENV,204,None,ISIC4_A,T,2025-03-21T00:00:00,2002,,844500.0
-2001,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_TWT_GENV,204,None,ISIC4_A,T,2025-03-21T00:00:00,2002,,861500.0
-2002,A,0,,Institut National de la Statistique et de l'Analyse Economique,EN_TWT_GENV,204,None,ISIC4_A,T,2025-03-21T00:00:00,2002,,1135000.0
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,COMPOSITE_BREAKDOWN,ACTIVITY,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2013,A,0,Data is based on amount of Clinical waste disposed off at the landfill site through incineration.,Statistics Botswana,EN_HAZ_TREATV,72,WT_INCINRT,None,T,2025-03-21T00:00:00,2017,386.67999
+2015,A,0,Data is based on amount of Clinical waste disposed off at the landfill site through incineration.,Statistics Botswana,EN_HAZ_TREATV,72,WT_INCINRT,None,T,2025-03-21T00:00:00,2017,719.19
+2017,A,0,Data is based on amount of Clinical waste disposed off at the landfill site through incineration.,Statistics Botswana,EN_HAZ_TREATV,72,WT_INCINRT,None,T,2025-03-21T00:00:00,2017,1061.53796
+2013,A,0,Data is based on amount of Clinical waste disposed off at the landfill site through incineration.,Statistics Botswana,EN_HAZ_TRTDISV,72,None,None,T,2025-03-21T00:00:00,2017,386.67999
+2015,A,0,Data is based on amount of Clinical waste disposed off at the landfill site through incineration.,Statistics Botswana,EN_HAZ_TRTDISV,72,None,None,T,2025-03-21T00:00:00,2017,719.19
+2017,A,0,Data is based on amount of Clinical waste disposed off at the landfill site through incineration.,Statistics Botswana,EN_HAZ_TRTDISV,72,None,None,T,2025-03-21T00:00:00,2017,1061.53796
+2013,A,0,Data is based on 11 out of 14 landfills in the country. Of the three left out one has reached its lifespan while the other two do not have sufficient records as weighbridges were not functioning most of the year.,Statistics Botswana,EN_MWT_COLLV,72,None,None,T,2025-03-21T00:00:00,2017,130999.4049
+2015,A,0,Data is based on 11 out of 14 landfills in the country. Of the three left out one has reached its lifespan while the other two do not have sufficient records as weighbridges were not functioning most of the year.,Statistics Botswana,EN_MWT_COLLV,72,None,None,T,2025-03-21T00:00:00,2017,85945.54138
+2017,A,0,Data is based on 11 out of 14 landfills in the country. Of the three left out one has reached its lifespan while the other two do not have sufficient records as weighbridges were not functioning most of the year.,Statistics Botswana,EN_MWT_COLLV,72,None,None,T,2025-03-21T00:00:00,2017,240553.3295
+2013,A,0,Data is based on 11 out of 14 landfills in the country. Of the three left out one has reached its lifespan while the other two do not have sufficient records as weighbridges were not functioning most of the year.,Statistics Botswana,EN_MWT_TREATV,72,WT_INCINRT,None,T,2025-03-21T00:00:00,2017,423.37099
+2015,A,0,Data is based on 11 out of 14 landfills in the country. Of the three left out one has reached its lifespan while the other two do not have sufficient records as weighbridges were not functioning most of the year.,Statistics Botswana,EN_MWT_TREATV,72,WT_INCINRT,None,T,2025-03-21T00:00:00,2017,718.99998
+2017,A,0,Data is based on 11 out of 14 landfills in the country. Of the three left out one has reached its lifespan while the other two do not have sufficient records as weighbridges were not functioning most of the year.,Statistics Botswana,EN_MWT_TREATV,72,WT_INCINRT,None,T,2025-03-21T00:00:00,2017,1061.53798
+2013,A,0,Data is based on 11 out of 14 landfills in the country. Of the three left out one has reached its lifespan while the other two do not have sufficient records as weighbridges were not functioning most of the year.,Statistics Botswana,EN_MWT_TREATV,72,WT_LANDFIL,None,T,2025-03-21T00:00:00,2017,129493.042
+2015,A,0,Data is based on 11 out of 14 landfills in the country. Of the three left out one has reached its lifespan while the other two do not have sufficient records as weighbridges were not functioning most of the year.,Statistics Botswana,EN_MWT_TREATV,72,WT_LANDFIL,None,T,2025-03-21T00:00:00,2017,84226.63116
+2017,A,0,Data is based on 11 out of 14 landfills in the country. Of the three left out one has reached its lifespan while the other two do not have sufficient records as weighbridges were not functioning most of the year.,Statistics Botswana,EN_MWT_TREATV,72,WT_LANDFIL,None,T,2025-03-21T00:00:00,2017,237983.7036
+2000,A,0,"Prior to 1998, the figures for waste generated by manufacturing refer to batteries waste only. For 1998-2004, the figures refer to both tyre and batteries waste. For year 2005, the figure is for tyre waste only.",Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_C,T,2025-03-21T00:00:00,2005,5030.00021
+2001,A,0,"Prior to 1998, the figures for waste generated by manufacturing refer to batteries waste only. For 1998-2004, the figures refer to both tyre and batteries waste. For year 2005, the figure is for tyre waste only.",Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_C,T,2025-03-21T00:00:00,2005,4096.00019
+2002,A,0,"Prior to 1998, the figures for waste generated by manufacturing refer to batteries waste only. For 1998-2004, the figures refer to both tyre and batteries waste. For year 2005, the figure is for tyre waste only.",Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_C,T,2025-03-21T00:00:00,2005,5172.99986
+2003,A,0,"Prior to 1998, the figures for waste generated by manufacturing refer to batteries waste only. For 1998-2004, the figures refer to both tyre and batteries waste. For year 2005, the figure is for tyre waste only.",Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_C,T,2025-03-21T00:00:00,2005,4068.99977
+2004,A,0,"Prior to 1998, the figures for waste generated by manufacturing refer to batteries waste only. For 1998-2004, the figures refer to both tyre and batteries waste. For year 2005, the figure is for tyre waste only.",Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_C,T,2025-03-21T00:00:00,2005,5492.0001
+2005,A,0,"Prior to 1998, the figures for waste generated by manufacturing refer to batteries waste only. For 1998-2004, the figures refer to both tyre and batteries waste. For year 2005, the figure is for tyre waste only.",Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_C,T,2025-03-21T00:00:00,2005,4590.00015
+2000,A,0,"Prior to 2001, the figures for waste generated by other economic activities refer to medical waste only. For 2001-2004, the figures refer to both medical waste and electronic waste.  For year 2005, the figure refers to electronic waste only.",Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_S,T,2025-03-21T00:00:00,2005,3215.65008
+2001,A,0,"Prior to 2001, the figures for waste generated by other economic activities refer to medical waste only. For 2001-2004, the figures refer to both medical waste and electronic waste.  For year 2005, the figure refers to electronic waste only.",Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_S,T,2025-03-21T00:00:00,2005,4258.3251
+2002,A,0,"Prior to 2001, the figures for waste generated by other economic activities refer to medical waste only. For 2001-2004, the figures refer to both medical waste and electronic waste.  For year 2005, the figure refers to electronic waste only.",Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_S,T,2025-03-21T00:00:00,2005,4376.39523
+2003,A,0,"Prior to 2001, the figures for waste generated by other economic activities refer to medical waste only. For 2001-2004, the figures refer to both medical waste and electronic waste.  For year 2005, the figure refers to electronic waste only.",Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_S,T,2025-03-21T00:00:00,2005,4520.41483
+2004,A,0,"Prior to 2001, the figures for waste generated by other economic activities refer to medical waste only. For 2001-2004, the figures refer to both medical waste and electronic waste.  For year 2005, the figure refers to electronic waste only.",Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_S,T,2025-03-21T00:00:00,2005,4641.38508
+2005,A,0,"Prior to 2001, the figures for waste generated by other economic activities refer to medical waste only. For 2001-2004, the figures refer to both medical waste and electronic waste.  For year 2005, the figure refers to electronic waste only.",Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_S,T,2025-03-21T00:00:00,2005,736.0
+2001,A,0,,Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_T,T,2025-03-21T00:00:00,2009,396691.5894
+2002,A,0,,Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_T,T,2025-03-21T00:00:00,2009,403424.1028
+2003,A,0,,Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_T,T,2025-03-21T00:00:00,2009,409177.0935
+2004,A,0,,Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_T,T,2025-03-21T00:00:00,2009,413957.3975
+2005,A,0,,Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_T,T,2025-03-21T00:00:00,2009,417771.3928
+2006,A,0,,Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_T,T,2025-03-21T00:00:00,2009,420625.0
+2007,A,0,,Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_T,T,2025-03-21T00:00:00,2009,424635.5896
+2008,A,0,,Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_T,T,2025-03-21T00:00:00,2009,429245.3919
+2009,A,0,,Statistics Botswana,EN_TWT_GENV,72,None,ISIC4_T,T,2025-03-21T00:00:00,2009,434441.5894

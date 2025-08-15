@@ -42,7 +42,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Municipal Solid Waste (MSW) collection coverage is defined as the amount of MSW collected as a proportion of total MSW generated.  Projected waste generation. (http://hdl.handle.net/10986/30317). Designation and data provided by the country and compiled by UNHabitat. The designations employed do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area; or of its authorities, or concerning the delimitation of its frontiers or boundaries.",
                 "Municipal Solid Waste (MSW) collection coverage is defined as the amount of MSW collected as a proportion of total MSW generated. Designation and data provided by the country and compiled by UNHabitat. The designations employed do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area; or of its authorities, or concerning the delimitation of its frontiers or boundaries.",
                 ""
               ]
@@ -54,7 +53,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "World Bank (2018). What A Waste Global Database, 2018 Edition.",
                 "United Nations Human Settlements Programme (UN-Habitat).",
                 ""
               ]
@@ -71,7 +69,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -83,7 +81,6 @@
             "constraints": {
               "enum": [
                 "C02",
-                "C06",
                 ""
               ]
             },
@@ -99,8 +96,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Cotonou",
-                "Parakou",
+                "Gaborone",
                 ""
               ]
             },
@@ -116,8 +112,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2018",
-                "2007",
+                "2013",
                 ""
               ]
             },

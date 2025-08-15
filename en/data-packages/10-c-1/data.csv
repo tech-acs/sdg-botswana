@@ -1,5 +1,10 @@
 Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2017,A,0,NaN = Not Available,"World Development Indicators database, World Bank.",SI_RMT_COST,204,PT,2024-03-13T00:00:00,2023,18.3
-2018,A,0,NaN = Not Available,"World Development Indicators database, World Bank.",SI_RMT_COST,204,PT,2024-03-13T00:00:00,2023,12.28
-2019,A,0,NaN = Not Available,"World Development Indicators database, World Bank.",SI_RMT_COST,204,PT,2024-03-13T00:00:00,2023,9.56
-2020,A,0,NaN = Not Available,"World Development Indicators database, World Bank.",SI_RMT_COST,204,PT,2024-03-13T00:00:00,2023,17.35
+2011,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,72,PT,2024-03-13T00:00:00,2023,19.57
+2015,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,72,PT,2024-03-13T00:00:00,2023,19.71
+2017,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,72,PT,2024-03-13T00:00:00,2023,19.15
+2018,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,72,PT,2024-03-13T00:00:00,2023,18.17
+2019,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,72,PT,2024-03-13T00:00:00,2023,18.43
+2020,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,72,PT,2024-03-13T00:00:00,2023,20.73
+2021,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,72,PT,2024-03-13T00:00:00,2023,17.25
+2022,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,72,PT,2024-03-13T00:00:00,2023,19.44
+2023,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,72,PT,2024-03-13T00:00:00,2023,14.49

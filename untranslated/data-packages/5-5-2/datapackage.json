@@ -50,7 +50,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions",
+                "HS - Multi-Topic Household Survey",
                 ""
               ]
             }
@@ -64,7 +64,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }
@@ -102,7 +102,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "2023",
                 ""
               ]
             }

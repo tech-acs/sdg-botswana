@@ -1,5 +1,4 @@
 Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2021,A,0,Quantity resulting from sorting and intended for valorization.,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_RCYR,204,PT,2025-03-21T00:00:00,2022,0.01529
-2022,A,0,Quantity resulting from sorting and intended for valorization.,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_RCYR,204,PT,2025-03-21T00:00:00,2022,0.15579
-2021,A,0,Quantity resulting from sorting and intended for valorization.,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_RCYV,204,T,2025-03-21T00:00:00,2022,51.9
-2022,A,0,Quantity resulting from sorting and intended for valorization.,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_RCYV,204,T,2025-03-21T00:00:00,2022,617.6
+2013,A,0,Data is based on 11 out of 14 landfills in the country. Of the three left out one has reached its lifespan while the other two do not have sufficient records as weighbridges were not functioning most of the year.,Statistics Botswana,EN_MWT_RCYV,72,T,2025-03-21T00:00:00,2017,1082.99899
+2015,A,0,Data is based on 11 out of 14 landfills in the country. Of the three left out one has reached its lifespan while the other two do not have sufficient records as weighbridges were not functioning most of the year.,Statistics Botswana,EN_MWT_RCYV,72,T,2025-03-21T00:00:00,2017,999.00001
+2017,A,0,Data is based on 11 out of 14 landfills in the country. Of the three left out one has reached its lifespan while the other two do not have sufficient records as weighbridges were not functioning most of the year.,Statistics Botswana,EN_MWT_RCYV,72,T,2025-03-21T00:00:00,2017,1508.08096

@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NaN = Not Available",
+                "Third quarter of the specified year.",
                 ""
               ]
             }
@@ -63,7 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }

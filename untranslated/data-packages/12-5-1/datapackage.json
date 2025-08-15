@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Quantity resulting from sorting and intended for valorization.",
+                "Data is based on 11 out of 14 landfills in the country. Of the three left out one has reached its lifespan while the other two do not have sufficient records as weighbridges were not functioning most of the year.",
                 ""
               ]
             }
@@ -49,7 +49,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Institut National de la Statistique et de l'Analyse Economique",
+                "Statistics Botswana",
                 ""
               ]
             }
@@ -63,7 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }
@@ -81,7 +81,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "2017",
                 ""
               ]
             }

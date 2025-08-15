@@ -1,4 +1,4 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2019,A,0,"Global Health Observatory (GHO), World Health Organisation (WHO)",SH_AAP_ASMORT,204,PER_100000_POP,2023-06-15T00:00:00,2019,77
-2019,A,0,"Global Health Observatory (GHO), World Health Organisation (WHO)",SH_HAP_ASMORT,204,PER_100000_POP,2023-06-15T00:00:00,2019,160
-2019,A,0,"Global Health Observatory (GHO), World Health Organisation (WHO)",SH_STA_ASAIRP,204,PER_100000_POP,2023-06-15T00:00:00,2019,202
+2019,A,0,"Global Health Observatory (GHO), World Health Organisation (WHO)",SH_AAP_ASMORT,72,PER_100000_POP,2023-06-15T00:00:00,2019,55
+2019,A,0,"Global Health Observatory (GHO), World Health Organisation (WHO)",SH_HAP_ASMORT,72,PER_100000_POP,2023-06-15T00:00:00,2019,99
+2019,A,0,"Global Health Observatory (GHO), World Health Organisation (WHO)",SH_STA_ASAIRP,72,PER_100000_POP,2023-06-15T00:00:00,2019,141

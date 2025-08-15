@@ -1,7 +1,1 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2022,A,0,Two clusters could not be visited due to insecurity and evictions during the field work period,"MICS 2021-22, UNICEF and ILO calculations",SL_TLF_CHLDEA,204,None,Y5T17,PT,2025-07-11T00:00:00,2021-22,16.0
-2022,A,0,Two clusters could not be visited due to insecurity and evictions during the field work period,"MICS 2021-22, UNICEF and ILO calculations",SL_TLF_CHLDEA,204,F,Y5T17,PT,2025-07-11T00:00:00,2021-22,14.2
-2022,A,0,Two clusters could not be visited due to insecurity and evictions during the field work period,"MICS 2021-22, UNICEF and ILO calculations",SL_TLF_CHLDEA,204,M,Y5T17,PT,2025-07-11T00:00:00,2021-22,17.8
-2022,A,0,Two clusters could not be visited due to insecurity and evictions during the field work period,"MICS 2021-22, UNICEF and ILO calculations",SL_TLF_CHLDEC,204,None,Y5T17,PT,2025-07-11T00:00:00,2021-22,19.9
-2022,A,0,Two clusters could not be visited due to insecurity and evictions during the field work period,"MICS 2021-22, UNICEF and ILO calculations",SL_TLF_CHLDEC,204,F,Y5T17,PT,2025-07-11T00:00:00,2021-22,19.4
-2022,A,0,Two clusters could not be visited due to insecurity and evictions during the field work period,"MICS 2021-22, UNICEF and ILO calculations",SL_TLF_CHLDEC,204,M,Y5T17,PT,2025-07-11T00:00:00,2021-22,20.4
+Year,Value

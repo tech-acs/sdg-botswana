@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Responses to a set of key questons have been included in this dataset.",
+                "Responses to a set of key questions have been included in this dataset.",
                 "2022 dataset disaggregated into relevant themes",
                 "Reference to Target 9 was a requirement",
                 ""
@@ -72,7 +72,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -93,6 +93,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2016",
                 "2022",
                 ""
               ]

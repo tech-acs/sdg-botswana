@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Benin 2021 Multiple Indicator Cluster Survey",
+                "Registration National Statistics & WPP2024",
                 ""
               ]
             },
@@ -58,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -102,7 +102,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2018-2021",
+                "2019",
                 ""
               ]
             },

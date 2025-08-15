@@ -1,1 +1,8 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2009,A,0,"Estimation from data in the Worker and Sector Profiles database, ILOSTAT, based on the Industrial Classification of Economic Activities [ISIC]",ST_EMP_TRSMN,72,NUMBER,2025-03-27T00:00:00,2023,14667
+2016,A,0,"Estimation from data in the Worker and Sector Profiles database, ILOSTAT, based on the Industrial Classification of Economic Activities [ISIC]",ST_EMP_TRSMN,72,NUMBER,2025-03-27T00:00:00,2023,18670
+2019,A,0,"Estimation from data in the Worker and Sector Profiles database, ILOSTAT, based on the Industrial Classification of Economic Activities [ISIC]",ST_EMP_TRSMN,72,NUMBER,2025-03-27T00:00:00,2023,58420
+2020,A,0,"Estimation from data in the Worker and Sector Profiles database, ILOSTAT, based on the Industrial Classification of Economic Activities [ISIC]",ST_EMP_TRSMN,72,NUMBER,2025-03-27T00:00:00,2023,45279
+2021,A,0,"Estimation from data in the Worker and Sector Profiles database, ILOSTAT, based on the Industrial Classification of Economic Activities [ISIC]",ST_EMP_TRSMN,72,NUMBER,2025-03-27T00:00:00,2023,45920
+2022,A,0,"Estimation from data in the Worker and Sector Profiles database, ILOSTAT, based on the Industrial Classification of Economic Activities [ISIC]",ST_EMP_TRSMN,72,NUMBER,2025-03-27T00:00:00,2023,43184
+2023,A,0,"Estimation from data in the Worker and Sector Profiles database, ILOSTAT, based on the Industrial Classification of Economic Activities [ISIC]",ST_EMP_TRSMN,72,NUMBER,2025-03-27T00:00:00,2023,53473

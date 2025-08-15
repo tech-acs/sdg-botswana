@@ -1,7 +1,23 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2001,A,0,"Institut National de la Statistique et de la Démographie (INStaD). 2023. Enquête par Grappes à Indicateurs Multiples, Bénin, 2021-2022, Rapport des résultats de l’enquête. Cotonou, Bénin : INStaD.",SH_STA_BRTC,204,PT,2025-03-14T00:00:00,2021 - 2022,65.5
-2006,A,0,"Institut National de la Statistique et de la Démographie (INStaD). 2023. Enquête par Grappes à Indicateurs Multiples, Bénin, 2021-2022, Rapport des résultats de l’enquête. Cotonou, Bénin : INStaD.",SH_STA_BRTC,204,PT,2025-03-14T00:00:00,2021 - 2022,74.0
-2012,A,0,"Institut National de la Statistique et de la Démographie (INStaD). 2023. Enquête par Grappes à Indicateurs Multiples, Bénin, 2021-2022, Rapport des résultats de l’enquête. Cotonou, Bénin : INStaD.",SH_STA_BRTC,204,PT,2025-03-14T00:00:00,2021 - 2022,80.9
-2014,A,0,"Institut National de la Statistique et de la Démographie (INStaD). 2023. Enquête par Grappes à Indicateurs Multiples, Bénin, 2021-2022, Rapport des résultats de l’enquête. Cotonou, Bénin : INStaD.",SH_STA_BRTC,204,PT,2025-03-14T00:00:00,2021 - 2022,77.2
-2018,A,0,"Institut National de la Statistique et de la Démographie (INStaD). 2023. Enquête par Grappes à Indicateurs Multiples, Bénin, 2021-2022, Rapport des résultats de l’enquête. Cotonou, Bénin : INStaD.",SH_STA_BRTC,204,PT,2025-03-14T00:00:00,2021 - 2022,78.1
-2022,A,0,"Institut National de la Statistique et de la Démographie (INStaD). 2023. Enquête par Grappes à Indicateurs Multiples, Bénin, 2021-2022, Rapport des résultats de l’enquête. Cotonou, Bénin : INStaD.",SH_STA_BRTC,204,PT,2025-03-14T00:00:00,2021 - 2022,80.8
+2000,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,98.5
+2001,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,92.0
+2002,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,96.5
+2003,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,96.1
+2004,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,97.3
+2005,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,94.0
+2006,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,99.3
+2007,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,94.6
+2008,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,98.3
+2009,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,99.5
+2010,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,99.1
+2011,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,99.8
+2012,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,99.8
+2013,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,99.9
+2014,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,99.5
+2015,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,99.7
+2016,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,99.7
+2017,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,99.8
+2018,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,99.8
+2019,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,99.8
+2020,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,99.8
+2021,A,0,Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.,SH_STA_BRTC,72,PT,2025-03-14T00:00:00,2021,99.8

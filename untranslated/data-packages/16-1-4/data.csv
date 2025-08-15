@@ -1,3 +1,1 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2021,A,0,Survey sample covers women and men aged 15-49,Multiple Indicator Cluster Surveys,VC_SNS_WALN_DRK,204,F,PT,2025-03-26T00:00:00,2021,63.77
-2021,A,0,Survey sample covers women and men aged 15-49,Multiple Indicator Cluster Surveys,VC_SNS_WALN_DRK,204,M,PT,2025-03-26T00:00:00,2021,87.07
+Year,Value

@@ -42,8 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
                 "NA Data extracted on 25 February 2025.",
+                "Source: UIS Dynamic Template based on Statistics Botswana-Education sector (https://www.statsbots.org.bw/publication-by-sector/education) Data extracted on 25 February 2025.",
                 ""
               ]
             },
@@ -59,7 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -70,10 +70,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "AGG_2_3",
                 "ISCED11_1",
                 "ISCED11_2",
                 "ISCED11_3",
-                "AGG_2_3",
                 ""
               ]
             },
@@ -94,7 +94,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2020",
                 "2022",
                 ""
               ]

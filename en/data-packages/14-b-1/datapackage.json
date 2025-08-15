@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "O",
                 ""
               ]
             },
@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Indicator developped upon responses provided by the EU | Level of implementation: 1 lowest - 5 highest",
+                "NaN = A figure was not provided",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Questionnaire on the implementation of the Code of Conduct for Responsible Fisheries - Country self-reporting",
+                "NA",
                 ""
               ]
             },
@@ -69,7 +69,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },

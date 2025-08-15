@@ -35,11 +35,21 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data pertain to all women of reproductive age, irrespective of marital status.",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Benin 2021-2022 Multiple Indicator Cluster Survey",
+                "Botswana 2007 Family Health Survey - Multiple Indicator Cluster Survey",
                 ""
               ]
             }
@@ -53,7 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }
@@ -91,7 +101,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2021-2022",
+                "2007-2008",
                 ""
               ]
             }

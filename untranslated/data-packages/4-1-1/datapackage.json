@@ -39,8 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CONFEMEN Programme for the Analysis of Education Systems (PASEC). Students achieving at least proficiency Level 3. Grade 6 Data extracted on 25 February 2025.",
-                "CONFEMEN Programme for the Analysis of Education Systems (PASEC). Students achieving at least proficiency Level 4. Grade 6 Data extracted on 25 February 2025.",
+                "Southern and Eastern Africa Consortium for Monitoring Educational Quality (SACMEQ) IV. Students achieving at least proficiency Level 5. Grade 6 Data extracted on 25 February 2025.",
                 ""
               ]
             }
@@ -54,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }
@@ -105,7 +104,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2019",
+                "2013",
                 ""
               ]
             }

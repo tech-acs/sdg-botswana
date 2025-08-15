@@ -39,8 +39,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "29.3",
-                "3804",
+                "18.4",
+                "475",
                 ""
               ]
             }
@@ -50,8 +50,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "20.4",
-                "2645",
+                "14.5",
+                "376",
                 ""
               ]
             }
@@ -75,7 +75,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }

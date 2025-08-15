@@ -38,29 +38,13 @@
             "title": "UNIT_MULT"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Unicameral: (National Assembly), No Data on Age or Gender of the chairperson, Data valid as of 1 Jan of given year",
-                "Unicameral: (National Assembly), Chair(s) presides over a committee which covers multuple themes (Defence, Foreign affairs), , Data valid as of 1 Jan of given year",
-                "Unicameral: (National Assembly), Data valid as of 1 Jan of given year",
-                "Unicameral: - (National Assembly), Data valid as of 1 Jan of given year;  2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  \n-\t0 means no representation at all of women in parliament \n-\t1 means perfectly proportional representation of women  in parliament \n-\t<1 means under-representation of women in parliament \n-\t>1 means over-representation of women in parliament",
-                "Unicameral: - (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election",
-                "Unicameral: - (National Assembly), Data valid as of 1 Jan of given year; 2023 population figures (revised as of July 2024) used from the United Nations Population Division - World Population Prospects database to calculate ratios; Ratios can be interpreted as follows:  \n-\t0 means no representation at all of ‘youth’ (45 years and below) in parliament \n-\t1 means perfectly proportional representation of ‘youth’ (45 years and below) in parliament \n-\t<1 means under-representation of ‘youth’ (45 years and below) in parliament \n-\t>1 means over-representation of ‘youth’ (45 years and below) in parliament",
-                "84 - Public administration and defence; compulsory social security",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
+                "Administration of Justice",
                 "Inter-Parliamentary Union (IPU), Parline Database",
-                "HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions",
+                "HS - Multi-Topic Household Survey",
                 ""
               ]
             },
@@ -76,7 +60,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -87,10 +71,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_U",
-                "M",
-                "None",
                 "F",
+                "M",
+                "_U",
+                "_X",
+                "None",
                 ""
               ]
             },
@@ -101,9 +86,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_U",
-                "Y_GE46",
                 "None",
+                "_U",
+                "_X",
+                "Y_GE46",
                 "Y0T45",
                 ""
               ]
@@ -115,6 +101,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ISCO08_2612",
+                "ISCO08_2619R",
                 "None",
                 "AGG_PSP",
                 ""
@@ -127,11 +115,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PC_HUM_RIGH",
-                "PC_FAFF_DEF",
-                "PC_FINANCE",
-                "PC_GEN_EQU",
                 "None",
+                "PC_FAFF_DEF",
+                "PC_GEN_EQU",
+                "PC_HUM_RIGH",
+                "PC_FINANCE",
                 ""
               ]
             },
@@ -154,11 +142,31 @@
               "enum": [
                 "2024",
                 "2025",
-                "2022",
+                "2021",
+                "2023",
                 ""
               ]
             },
             "title": "TIME_DETAIL"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unicameral: (National Assembly), Chair(s) presides over a committee which covers multuple themes (Defence, Foreign affairs), No Data on Age or Gender of the chairperson, Data valid as of 1 Jan of given year",
+                "Unicameral: (National Assembly), No Committee, Data valid as of 1 Jan of given year",
+                "Unicameral: (National Assembly), No Age Data, Data valid as of 1 Jan of given year",
+                "Unicameral: (National Assembly), Chair(s) presides over a committee which covers multuple themes (Foreign affairs, Defence), , Data valid as of 1 Jan of given year",
+                "Unicameral: (National Assembly), Data valid as of 1 Jan of given year",
+                "Unicameral: - (National Assembly), Data valid as of 1 Jan of given year;  2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  \n-\t0 means no representation at all of women in parliament \n-\t1 means perfectly proportional representation of women  in parliament \n-\t<1 means under-representation of women in parliament \n-\t>1 means over-representation of women in parliament",
+                "Unicameral: (National Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election",
+                "Unicameral: (National Assembly), Data valid as of 1 Jan of given year; 2021 population figures (revised as of July 2022) used from the United Nations Population Division - World Population Prospects database to calculate ratios; Ratios can be interpreted as follows:  \n-\t0 means no representation at all of ‘youth’ (45 years and below) in parliament \n-\t1 means perfectly proportional representation of ‘youth’ (45 years and below) in parliament \n-\t<1 means under-representation of ‘youth’ (45 years and below) in parliament \n-\t>1 means over-representation of ‘youth’ (45 years and below) in parliament",
+                "84 - Public administration and defence; compulsory social security",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

@@ -1,25 +1,39 @@
-Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2000,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,13.5132
-2001,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,15.31058
-2002,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,14.12908
-2003,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,16.68253
-2004,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,19.21395
-2005,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,18.79039
-2006,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,19.70961
-2007,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,14.94869
-2008,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,19.08858
-2009,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,18.17562
-2010,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,26.14396
-2012,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,25.02131
-2013,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,22.34122
-2014,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,22.22771
-2015,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,17.47952
-2016,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,18.7914
-2017,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,19.87965
-2018,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,17.70918
-2019,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,18.21017
-2020,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,16.41282
-2021,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,15.28315
-2022,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,16.0946
-2023,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,19.04264
-2024,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,204,PT,2025-03-14T00:00:00,2024,17.96803
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,COMMENT_OBS,Value
+2005,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,72,PT,2025-03-14T00:00:00,2020,,25.82353
+2007,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,72,PT,2025-03-14T00:00:00,2020,,26.50779
+2009,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,72,PT,2025-03-14T00:00:00,2020,,20.4774
+2010,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,72,PT,2025-03-14T00:00:00,2020,,23.55053
+2011,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,72,PT,2025-03-14T00:00:00,2020,,24.1945
+2012,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,72,PT,2025-03-14T00:00:00,2020,,21.67182
+2013,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,72,PT,2025-03-14T00:00:00,2020,,20.91292
+2014,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,72,PT,2025-03-14T00:00:00,2020,,22.66013
+2015,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,72,PT,2025-03-14T00:00:00,2020,,23.05355
+2016,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,72,PT,2025-03-14T00:00:00,2020,,22.00429
+2017,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,72,PT,2025-03-14T00:00:00,2020,,22.81626
+2018,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,72,PT,2025-03-14T00:00:00,2020,,22.56107
+2019,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,72,PT,2025-03-14T00:00:00,2020,,22.342
+2020,A,0,UNESCO Institute for Statistics. Sector Name: General government.,SD_XPD_ESED,72,PT,2025-03-14T00:00:00,2020,,21.46509
+2017,A,0,IMF,SG_XPD_EDUC,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,16.48611175
+2018,A,0,IMF,SG_XPD_EDUC,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,22.37806136
+2019,A,0,IMF,SG_XPD_EDUC,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,21.95994106
+2020,A,0,IMF,SG_XPD_EDUC,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,22.92603434
+2021,A,0,IMF,SG_XPD_EDUC,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,24.26040733
+2022,A,0,IMF,SG_XPD_EDUC,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,22.01461843
+2017,A,0,IMF,SG_XPD_ESSRV,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,30.74052636
+2018,A,0,IMF,SG_XPD_ESSRV,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,38.23634793
+2019,A,0,IMF,SG_XPD_ESSRV,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,38.61911284
+2020,A,0,IMF,SG_XPD_ESSRV,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,42.24793499
+2021,A,0,IMF,SG_XPD_ESSRV,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,40.49515057
+2022,A,0,IMF,SG_XPD_ESSRV,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,38.5924183
+2017,A,0,IMF,SG_XPD_HLTH,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,9.197411418
+2018,A,0,IMF,SG_XPD_HLTH,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,11.93009789
+2019,A,0,IMF,SG_XPD_HLTH,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,12.37116807
+2020,A,0,IMF,SG_XPD_HLTH,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,15.68563402
+2021,A,0,IMF,SG_XPD_HLTH,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,14.91525793
+2022,A,0,IMF,SG_XPD_HLTH,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,15.11325981
+2017,A,0,IMF,SG_XPD_PROT,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,5.057003191
+2018,A,0,IMF,SG_XPD_PROT,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,3.928188685
+2019,A,0,IMF,SG_XPD_PROT,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,4.288003709
+2020,A,0,IMF,SG_XPD_PROT,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,3.636266632
+2021,A,0,IMF,SG_XPD_PROT,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,1.319485311
+2022,A,0,IMF,SG_XPD_PROT,72,PT,2025-03-26T00:00:00,2022,Budgetary Central Government Sector,1.464540055

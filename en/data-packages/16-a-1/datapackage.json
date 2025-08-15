@@ -38,17 +38,6 @@
             "title": "UNIT_MULT"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Name of NHRI - Commission béninoise des droits de l’homme",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
@@ -69,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },

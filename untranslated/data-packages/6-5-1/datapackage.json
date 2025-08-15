@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Directorate-General for Water",
+                "Department of Water and Sanitation",
                 ""
               ]
             }
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }

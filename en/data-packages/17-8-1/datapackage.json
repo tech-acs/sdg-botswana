@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "ITU estimate.",
+                "Statistics Botswana",
                 ""
               ]
             },
@@ -58,11 +59,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
             "title": "REF_AREA"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "F",
+                "M",
+                ""
+              ]
+            },
+            "title": "SEX"
           },
           {
             "name": "UNIT_MEASURE",
@@ -80,21 +94,11 @@
             "constraints": {
               "enum": [
                 "2023",
+                "2014",
                 ""
               ]
             },
             "title": "TIME_DETAIL"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Aged 6 and older.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

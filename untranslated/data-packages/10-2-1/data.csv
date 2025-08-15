@@ -1,6 +1,6 @@
 Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,INCOME_WEALTH_QUANTILE,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2003,A,0,Based on data from EHCVM. Estimated from unit-record consumption data.,World Bank's Poverty and Inequality Platform,SI_POV_50MI,204,B50,PT,2025-08-11T00:00:00,2021,11.0
-2011,A,0,Based on data from EHCVM. Estimated from unit-record consumption data.,World Bank's Poverty and Inequality Platform,SI_POV_50MI,204,B50,PT,2025-08-11T00:00:00,2021,11.8
-2015,A,0,Based on data from EHCVM. Estimated from unit-record consumption data.,World Bank's Poverty and Inequality Platform,SI_POV_50MI,204,B50,PT,2025-08-11T00:00:00,2021,20.1
-2018,A,0,Based on data from EHCVM. Estimated from unit-record consumption data.,World Bank's Poverty and Inequality Platform,SI_POV_50MI,204,B50,PT,2025-08-11T00:00:00,2021,11.0
-2021,A,0,Based on data from EHCVM. Estimated from unit-record consumption data.,World Bank's Poverty and Inequality Platform,SI_POV_50MI,204,B50,PT,2025-08-11T00:00:00,2021,10.5
+1985,A,0,Based on data from BMTHS. Estimated from unit-record consumption data.,World Bank's Poverty and Inequality Platform,SI_POV_50MI,72,B50,PT,2025-08-11T00:00:00,2015,23.3
+1993,A,0,Based on data from BMTHS. Estimated from unit-record consumption data.,World Bank's Poverty and Inequality Platform,SI_POV_50MI,72,B50,PT,2025-08-11T00:00:00,2015,23.4
+2002,A,0,Based on data from BMTHS. Estimated from unit-record consumption data.,World Bank's Poverty and Inequality Platform,SI_POV_50MI,72,B50,PT,2025-08-11T00:00:00,2015,22.0
+2009,A,0,Based on data from BMTHS. Estimated from unit-record consumption data.,World Bank's Poverty and Inequality Platform,SI_POV_50MI,72,B50,PT,2025-08-11T00:00:00,2015,21.5
+2015,A,0,Based on data from BMTHS. Estimated from unit-record consumption data.,World Bank's Poverty and Inequality Platform,SI_POV_50MI,72,B50,PT,2025-08-11T00:00:00,2015,20.3

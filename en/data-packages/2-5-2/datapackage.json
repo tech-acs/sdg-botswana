@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "E",
-                "O",
                 ""
               ]
             },
@@ -43,8 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "National Coordinator for the management of AnGR of: Benin",
-                "NA",
+                "Department of Agricultural Research",
                 ""
               ]
             },
@@ -60,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },

@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ministère du Cadre de Vie et du Développement Durable",
+                "Department of Environmental Affairs, Ministry of Environment, Natural Resources Conservation and Tourism",
                 ""
               ]
             },
@@ -58,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -70,7 +70,7 @@
             "constraints": {
               "enum": [
                 "None",
-                "ABT2_NONTLT",
+                "ABT2_ACHIEVE",
                 ""
               ]
             },

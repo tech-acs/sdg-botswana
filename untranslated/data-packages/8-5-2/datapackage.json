@@ -50,8 +50,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions",
-                "PC - Population projections and Revised Studies on Social Demand 2002-2030",
+                "HS - Multi-Topic Household Survey",
                 ""
               ]
             }
@@ -65,7 +64,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }
@@ -119,9 +118,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2023",
                 "2022",
-                "2019",
-                "2013",
                 ""
               ]
             }

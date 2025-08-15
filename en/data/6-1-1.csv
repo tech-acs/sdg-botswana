@@ -1,1 +1,24 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2000,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,83.99584
+2001,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,83.92756
+2002,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,83.85929
+2003,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,83.79102
+2004,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,83.72275
+2005,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,83.65447
+2006,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,83.42514
+2007,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,82.62081
+2008,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,81.81768
+2009,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,81.01576
+2010,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,80.21503
+2011,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,79.41552
+2012,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,78.6172
+2013,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,77.82009
+2014,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,77.02418
+2015,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,76.22948
+2016,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,75.43598
+2017,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,74.64368
+2018,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,73.85259
+2019,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,73.0627
+2020,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,73.00238
+2021,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,72.94206
+2022,A,0,"WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2023)",SH_H2O_SAFE,72,U,PT,2023-09-12T00:00:00,2022,72.94206

@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Institut National de la Statistique et de la Démographie (INStaD). 2023. Enquête par Grappes à Indicateurs Multiples, Bénin, 2021-2022, Rapport des résultats de l’enquête. Cotonou, Bénin : INStaD.",
+                "Vital Statistics Report 2021. Gaborone: Statistics Botswana (CSO); 2024.",
                 ""
               ]
             },
@@ -58,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -79,7 +79,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2021 - 2022",
+                "2021",
                 ""
               ]
             },

@@ -39,9 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Benin Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM) 2021-22. The survey collected data on school attendance and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
-                "Benin MICS 2021-22. The survey collected data on school attendance for age 3-24 and educational attainment for age 5 and above. Data extracted on 25 February 2025.",
-                "Benin MICS 2021 (GEMR). Data extracted on 25 February 2025.",
+                "Botswana Quarterly Multi-Topic Survey, Quarter 3 2023. The survey collected data on educational attainment for age 2 and above. Data extracted on 25 February 2025.",
                 ""
               ]
             }
@@ -55,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             }
@@ -68,33 +66,6 @@
                 "None",
                 "F",
                 "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "R",
-                "U",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5",
                 ""
               ]
             }
@@ -124,19 +95,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
-                "2021",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "This data point is NIL for the submitting nation.",
-                "This data point is NOT APPLICABLE for the submitting nation.",
+                "2023",
                 ""
               ]
             }

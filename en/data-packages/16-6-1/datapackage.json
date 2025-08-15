@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data provided by WB Economists.YES-expenditure in suspense accounts",
+                "data provided by WB Economists, https://www.finance.gov.bw/",
                 ""
               ]
             },
@@ -69,7 +69,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
@@ -90,7 +90,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2018",
+                "2023",
                 ""
               ]
             },

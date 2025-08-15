@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total population is restricted to household head and wife due to data limitations.",
+                "Derived by UN-Habitat from New Urban Agenda reporting of the relevant country.",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UEMOA CIV1",
+                "Statistics Botswana -  New Urban Agenda Report - 2021",
                 ""
               ]
             },
@@ -69,24 +69,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "204",
+                "72",
                 ""
               ]
             },
             "title": "REF_AREA"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "F",
-                "M",
-                ""
-              ]
-            },
-            "title": "SEX"
           },
           {
             "name": "UNIT_MEASURE",
@@ -103,7 +90,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2021",
+                "2018",
                 ""
               ]
             },
@@ -111,7 +98,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
