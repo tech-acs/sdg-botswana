@@ -1,0 +1,102 @@
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,CUST_BREAKDOWN,COMPOSITE_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,CUST_BREAKDOWN_LB,Value
+2017,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BP,204,None,None,PT,2024-05-16T00:00:00,2010-2021,,98.07193
+2018,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BP,204,None,None,PT,2024-05-16T00:00:00,2010-2021,,98.10576
+2019,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BP,204,None,None,PT,2024-05-16T00:00:00,2010-2021,,99.2502
+2020,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BP,204,None,None,PT,2024-05-16T00:00:00,2010-2021,,98.17655
+2021,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BP,204,None,None,PT,2024-05-16T00:00:00,2010-2021,,98.07097
+2017,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,None,None,T,2024-05-16T00:00:00,2010-2021,,29451.0
+2018,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,None,None,T,2024-05-16T00:00:00,2010-2021,,30816.0
+2019,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,None,None,T,2024-05-16T00:00:00,2010-2021,,32298.0
+2020,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,None,None,T,2024-05-16T00:00:00,2010-2021,,32843.0
+2021,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,None,None,T,2024-05-16T00:00:00,2010-2021,,33554.0
+2017,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C120,None,T,2024-05-16T00:00:00,2010-2022,Cameroon,283.0
+2018,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C120,None,T,2024-05-16T00:00:00,2010-2022,Cameroon,241.0
+2019,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C120,None,T,2024-05-16T00:00:00,2010-2022,Cameroon,221.0
+2020,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C120,None,T,2024-05-16T00:00:00,2010-2022,Cameroon,178.0
+2021,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C120,None,T,2024-05-16T00:00:00,2010-2022,Cameroon,149.0
+2022,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C120,None,T,2024-05-16T00:00:00,2010-2022,Cameroon,116.0
+2017,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C204,None,T,2024-05-16T00:00:00,2010-2022,Benin,994.0
+2018,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C204,None,T,2024-05-16T00:00:00,2010-2022,Benin,1467.0
+2019,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C204,None,T,2024-05-16T00:00:00,2010-2022,Benin,1455.0
+2020,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C204,None,T,2024-05-16T00:00:00,2010-2022,Benin,1310.0
+2021,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C204,None,T,2024-05-16T00:00:00,2010-2022,Benin,1153.0
+2022,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C204,None,T,2024-05-16T00:00:00,2010-2022,Benin,1302.0
+2017,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C226,None,T,2024-05-16T00:00:00,2010-2022,Equatorial Guinea,78.0
+2018,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C226,None,T,2024-05-16T00:00:00,2010-2022,Equatorial Guinea,52.0
+2019,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C226,None,T,2024-05-16T00:00:00,2010-2022,Equatorial Guinea,19.0
+2020,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C226,None,T,2024-05-16T00:00:00,2010-2022,Equatorial Guinea,25.0
+2021,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C226,None,T,2024-05-16T00:00:00,2010-2022,Equatorial Guinea,13.0
+2022,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C226,None,T,2024-05-16T00:00:00,2010-2022,Equatorial Guinea,18.0
+2017,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C266,None,T,2024-05-16T00:00:00,2010-2022,Gabon,29.0
+2018,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C266,None,T,2024-05-16T00:00:00,2010-2022,Gabon,27.0
+2019,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C266,None,T,2024-05-16T00:00:00,2010-2022,Gabon,32.0
+2020,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C266,None,T,2024-05-16T00:00:00,2010-2022,Gabon,19.0
+2021,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C266,None,T,2024-05-16T00:00:00,2010-2022,Gabon,20.0
+2022,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C266,None,T,2024-05-16T00:00:00,2010-2022,Gabon,25.0
+2017,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C288,None,T,2024-05-16T00:00:00,2010-2022,Ghana,1.0
+2018,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C288,None,T,2024-05-16T00:00:00,2010-2022,Ghana,2.0
+2019,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C288,None,T,2024-05-16T00:00:00,2010-2022,Ghana,1.0
+2020,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C288,None,T,2024-05-16T00:00:00,2010-2022,Ghana,1.0
+2021,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C288,None,T,2024-05-16T00:00:00,2010-2022,Ghana,3.0
+2022,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C288,None,T,2024-05-16T00:00:00,2010-2022,Ghana,3.0
+2017,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C566,None,T,2024-05-16T00:00:00,2010-2022,Nigeria,28060.0
+2018,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C566,None,T,2024-05-16T00:00:00,2010-2022,Nigeria,28982.0
+2019,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C566,None,T,2024-05-16T00:00:00,2010-2022,Nigeria,30561.0
+2020,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C566,None,T,2024-05-16T00:00:00,2010-2022,Nigeria,31297.0
+2021,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C566,None,T,2024-05-16T00:00:00,2010-2022,Nigeria,32207.0
+2022,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C566,None,T,2024-05-16T00:00:00,2010-2022,Nigeria,32682.0
+2017,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C768,None,T,2024-05-16T00:00:00,2010-2022,Togo,5.0
+2018,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C768,None,T,2024-05-16T00:00:00,2010-2022,Togo,45.0
+2019,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C768,None,T,2024-05-16T00:00:00,2010-2022,Togo,10.0
+2020,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C768,None,T,2024-05-16T00:00:00,2010-2022,Togo,13.0
+2021,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C768,None,T,2024-05-16T00:00:00,2010-2022,Togo,9.0
+2022,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_BV,204,C768,None,T,2024-05-16T00:00:00,2010-2022,Togo,68.0
+2017,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_EXP,204,None,None,T,2024-05-16T00:00:00,2010-2022,,30030.0
+2018,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_EXP,204,None,None,T,2024-05-16T00:00:00,2010-2022,,31411.0
+2019,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_EXP,204,None,None,T,2024-05-16T00:00:00,2010-2022,,32542.0
+2020,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_EXP,204,None,None,T,2024-05-16T00:00:00,2010-2022,,33453.0
+2021,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_EXP,204,None,None,T,2024-05-16T00:00:00,2010-2022,,34214.0
+2022,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_EXP,204,None,None,T,2024-05-16T00:00:00,2010-2022,,34837.0
+2017,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_OP,204,None,None,PT,2024-05-16T00:00:00,2010-2021,,1.92807
+2018,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_OP,204,None,None,PT,2024-05-16T00:00:00,2010-2021,,1.89742
+2019,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_OP,204,None,None,PT,2024-05-16T00:00:00,2010-2021,,0.7498
+2020,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_OP,204,None,None,PT,2024-05-16T00:00:00,2010-2021,,1.82345
+2021,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_OP,204,None,None,PT,2024-05-16T00:00:00,2010-2021,,1.92611
+2017,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_OV,204,None,None,T,2024-05-16T00:00:00,2010-2021,,579.0
+2018,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_OV,204,None,None,T,2024-05-16T00:00:00,2010-2021,,596.0
+2019,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_OV,204,None,None,T,2024-05-16T00:00:00,2010-2021,,244.0
+2020,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_OV,204,None,None,T,2024-05-16T00:00:00,2010-2021,,610.0
+2021,A,0,"Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",EN_MAR_BEALIT_OV,204,None,None,T,2024-05-16T00:00:00,2010-2021,,659.0
+2018,D,0,World Environment Situation Room,EN_MAR_CHLANM,204,None,FCC_E,PT,2024-06-12T00:00:00,2022,,0.754
+2019,D,0,World Environment Situation Room,EN_MAR_CHLANM,204,None,FCC_E,PT,2024-06-12T00:00:00,2022,,0.40798
+2020,D,0,World Environment Situation Room,EN_MAR_CHLANM,204,None,FCC_E,PT,2024-06-12T00:00:00,2022,,6.61279
+2021,D,0,World Environment Situation Room,EN_MAR_CHLANM,204,None,FCC_E,PT,2024-06-12T00:00:00,2022,,1.02855
+2022,D,0,World Environment Situation Room,EN_MAR_CHLANM,204,None,FCC_E,PT,2024-06-12T00:00:00,2022,,1.00884
+2018,D,0,World Environment Situation Room,EN_MAR_CHLANM,204,None,FCC_H,PT,2024-06-12T00:00:00,2022,,5.25025
+2019,D,0,World Environment Situation Room,EN_MAR_CHLANM,204,None,FCC_H,PT,2024-06-12T00:00:00,2022,,5.57688
+2020,D,0,World Environment Situation Room,EN_MAR_CHLANM,204,None,FCC_H,PT,2024-06-12T00:00:00,2022,,6.49472
+2021,D,0,World Environment Situation Room,EN_MAR_CHLANM,204,None,FCC_H,PT,2024-06-12T00:00:00,2022,,6.71971
+2022,D,0,World Environment Situation Room,EN_MAR_CHLANM,204,None,FCC_H,PT,2024-06-12T00:00:00,2022,,8.28538
+2018,D,0,World Environment Situation Room,EN_MAR_CHLANM,204,None,FCC_M,PT,2024-06-12T00:00:00,2022,,12.1625
+2019,D,0,World Environment Situation Room,EN_MAR_CHLANM,204,None,FCC_M,PT,2024-06-12T00:00:00,2022,,8.14738
+2020,D,0,World Environment Situation Room,EN_MAR_CHLANM,204,None,FCC_M,PT,2024-06-12T00:00:00,2022,,5.83239
+2021,D,0,World Environment Situation Room,EN_MAR_CHLANM,204,None,FCC_M,PT,2024-06-12T00:00:00,2022,,7.82386
+2022,D,0,World Environment Situation Room,EN_MAR_CHLANM,204,None,FCC_M,PT,2024-06-12T00:00:00,2022,,9.937
+2005,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,2.18028
+2006,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,9.34508
+2007,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,2.60301
+2008,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,11.24766
+2009,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,1.28507
+2010,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,10.46161
+2011,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,1.41232
+2012,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,3.71143
+2013,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,1.06737
+2014,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,2.60141
+2015,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,0.60611
+2016,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,2.73454
+2017,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,2.2299
+2018,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,8.08275
+2019,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,3.35898
+2020,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,2.15302
+2021,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,4.1522
+2022,A,0,World Environment Situation Room,EN_MAR_CHLDEV,204,None,None,PT,2024-06-12T00:00:00,2022,,3.18288

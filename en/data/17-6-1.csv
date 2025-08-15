@@ -1,0 +1,109 @@
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,COMPOSITE_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,COMMENT_OBS,Value
+2002,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.00027
+2003,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.00027
+2004,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.00099
+2005,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.00233
+2006,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.01723
+2007,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.00793
+2008,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.09128
+2009,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.20044
+2010,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.27593
+2011,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.37187
+2012,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.40164
+2013,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.39665
+2014,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.41178
+2015,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.64488
+2016,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.19062
+2017,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.23767
+2018,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.21831
+2019,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.19985
+2020,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.22938
+2021,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.15417
+2022,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.15307
+2023,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.17088
+2008,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.02165
+2009,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.01883
+2010,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.03062
+2011,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.03859
+2012,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.04806
+2014,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.03879
+2015,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.03526
+2017,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.13904
+2018,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.12514
+2019,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.08869
+2020,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.09861
+2021,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.0109
+2022,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.00951
+2023,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.01841
+2015,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.00741
+2017,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.0434
+2018,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.04173
+2019,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.05079
+2020,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.12368
+2021,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.11103
+2022,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.02182
+2023,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.06991
+2007,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.0
+2008,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.0
+2009,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.0
+2017,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.05524
+2018,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.05144
+2019,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.06038
+2020,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.00709
+2021,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.03224
+2022,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.12173
+2023,A,0,Data based on the ITU DataHub,IT_NET_BBND,204,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.08256
+2002,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,21.0
+2003,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,21.0
+2004,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,81.0
+2005,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,196.0
+2006,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,1498.0
+2007,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,710.0
+2008,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,8424.0
+2009,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,19061.0
+2010,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,27034.0
+2011,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,37535.0
+2012,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,41761.0
+2013,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,42477.0
+2014,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,45419.0
+2015,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,73263.0
+2016,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,22298.0
+2017,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,28615.0
+2018,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,27034.0
+2019,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,25435.0
+2020,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,29981.0
+2021,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,20679.0
+2022,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,21062.0
+2023,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,None,NUMBER,2025-03-24T00:00:00,2023,Apurement de la base client de SBIN,24113.0
+2008,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,1998.0
+2009,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,1791.0
+2010,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,3000.0
+2011,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,3895.0
+2012,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,4997.0
+2014,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,4278.0
+2015,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,4006.0
+2017,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,16740.0
+2018,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,15496.0
+2019,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,11287.0
+2020,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,12889.0
+2021,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,1462.0
+2022,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,1309.0
+2023,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,2598.0
+2015,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,842.0
+2017,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,5225.0
+2018,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,5167.0
+2019,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,6464.0
+2020,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,16165.0
+2021,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,14893.0
+2022,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,3003.0
+2023,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Breakdown by speed only available for ADSL.,9865.0
+2007,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,,0.0
+2008,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,,0.0
+2009,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,,0.0
+2017,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,,6651.0
+2018,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,,6370.0
+2019,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,,7684.0
+2020,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,,927.0
+2021,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,,4324.0
+2022,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,,16750.0
+2023,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_NET_BBNDN,204,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,,11650.0

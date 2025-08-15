@@ -1,0 +1,54 @@
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,OCCUPATION,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2004,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_221,PER_10000_POP,2025-05-01T00:00:00,2023,0.38
+2008,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_221,PER_10000_POP,2025-05-01T00:00:00,2023,0.59
+2010,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_221,PER_10000_POP,2025-05-01T00:00:00,2023,0.52
+2011,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_221,PER_10000_POP,2025-05-01T00:00:00,2023,0.54
+2016,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_221,PER_10000_POP,2025-05-01T00:00:00,2023,0.45
+2018,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_221,PER_10000_POP,2025-05-01T00:00:00,2023,0.73
+2019,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_221,PER_10000_POP,2025-05-01T00:00:00,2023,0.6
+2021,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_221,PER_10000_POP,2025-05-01T00:00:00,2023,2.05
+2022,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_221,PER_10000_POP,2025-05-01T00:00:00,2023,1.9
+2023,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_221,PER_10000_POP,2025-05-01T00:00:00,2023,2.16
+2004,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_222_322,PER_10000_POP,2025-05-01T00:00:00,2023,7.1
+2008,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_222_322,PER_10000_POP,2025-05-01T00:00:00,2023,7.73
+2010,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_222_322,PER_10000_POP,2025-05-01T00:00:00,2023,4.24
+2011,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_222_322,PER_10000_POP,2025-05-01T00:00:00,2023,3.98
+2012,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_222_322,PER_10000_POP,2025-05-01T00:00:00,2023,6.37
+2016,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_222_322,PER_10000_POP,2025-05-01T00:00:00,2023,2.23
+2018,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_222_322,PER_10000_POP,2025-05-01T00:00:00,2023,5.22
+2019,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_222_322,PER_10000_POP,2025-05-01T00:00:00,2023,5.4
+2021,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_222_322,PER_10000_POP,2025-05-01T00:00:00,2023,5.64
+2022,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_222_322,PER_10000_POP,2025-05-01T00:00:00,2023,5.78
+2023,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_222_322,PER_10000_POP,2025-05-01T00:00:00,2023,6.11
+2004,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2261,PER_10000_POP,2025-05-01T00:00:00,2023,0.01
+2008,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2261,PER_10000_POP,2025-05-01T00:00:00,2023,0.04
+2016,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2261,PER_10000_POP,2025-05-01T00:00:00,2023,0.01
+2018,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2261,PER_10000_POP,2025-05-01T00:00:00,2023,0.01
+2021,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2261,PER_10000_POP,2025-05-01T00:00:00,2023,0.04
+2022,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2261,PER_10000_POP,2025-05-01T00:00:00,2023,0.04
+2023,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2261,PER_10000_POP,2025-05-01T00:00:00,2023,0.05
+2004,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2262,PER_10000_POP,2025-05-01T00:00:00,2023,0.01
+2008,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2262,PER_10000_POP,2025-05-01T00:00:00,2023,0.02
+2010,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2262,PER_10000_POP,2025-05-01T00:00:00,2023,0.02
+2011,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2262,PER_10000_POP,2025-05-01T00:00:00,2023,0.02
+2016,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2262,PER_10000_POP,2025-05-01T00:00:00,2023,0.01
+2018,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2262,PER_10000_POP,2025-05-01T00:00:00,2023,0.25
+2021,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2262,PER_10000_POP,2025-05-01T00:00:00,2023,0.3
+2022,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2262,PER_10000_POP,2025-05-01T00:00:00,2023,0.28
+2023,A,0,"National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_DEN,204,None,ISCO08_2262,PER_10000_POP,2025-05-01T00:00:00,2023,0.31
+2013,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,F,ISCO08_221,PT,2025-01-17T00:00:00,2022,25.9
+2018,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,F,ISCO08_221,PT,2025-01-17T00:00:00,2022,41.6
+2021,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,F,ISCO08_221,PT,2025-01-17T00:00:00,2022,31.1
+2022,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,F,ISCO08_221,PT,2025-01-17T00:00:00,2022,31.0
+2013,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,F,ISCO08_2221_3221,PT,2025-01-17T00:00:00,2022,53.7
+2018,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,F,ISCO08_2221_3221,PT,2025-01-17T00:00:00,2022,31.3
+2021,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,F,ISCO08_2221_3221,PT,2025-01-17T00:00:00,2022,60.0
+2022,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,F,ISCO08_2221_3221,PT,2025-01-17T00:00:00,2022,59.4
+2013,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,M,ISCO08_221,PT,2025-01-17T00:00:00,2022,74.1
+2018,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,M,ISCO08_221,PT,2025-01-17T00:00:00,2022,58.4
+2021,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,M,ISCO08_221,PT,2025-01-17T00:00:00,2022,68.9
+2022,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,M,ISCO08_221,PT,2025-01-17T00:00:00,2022,69.0
+2013,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,M,ISCO08_2221_3221,PT,2025-01-17T00:00:00,2022,46.3
+2018,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,M,ISCO08_2221_3221,PT,2025-01-17T00:00:00,2022,68.7
+2021,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,M,ISCO08_2221_3221,PT,2025-01-17T00:00:00,2022,40.0
+2022,A,0,"National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",SH_MED_HWRKDIS,204,M,ISCO08_2221_3221,PT,2025-01-17T00:00:00,2022,40.6

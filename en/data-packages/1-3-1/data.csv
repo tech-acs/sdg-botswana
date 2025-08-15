@@ -1,0 +1,45 @@
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,INCOME_WEALTH_QUANTILE,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2019,A,0,ILO estimates based on national sources,SI_COV_BENFTS,204,None,None,None,PT,2025-03-15T00:00:00,2020,7.8
+2020,A,0,ILO estimates based on national sources,SI_COV_BENFTS,204,None,None,None,PT,2025-03-15T00:00:00,2020,8.4
+2020,A,0,ILO estimates based on national sources,SI_COV_BENFTS,204,F,None,None,PT,2025-03-15T00:00:00,2020,6.15
+2020,A,0,ILO estimates based on national sources,SI_COV_BENFTS,204,M,None,None,PT,2025-03-15T00:00:00,2020,9.1
+2019,A,0,ILO estimates based on national sources,SI_COV_CHLD,204,None,Y0T14,None,PT,2025-03-15T00:00:00,2020,11.6
+2020,A,0,ILO estimates based on national sources,SI_COV_CHLD,204,None,Y0T14,None,PT,2025-03-15T00:00:00,2020,12.0
+2020,A,0,ILO estimates based on national sources,SI_COV_CHLD,204,F,Y0T14,None,PT,2025-03-15T00:00:00,2020,10.78
+2020,A,0,ILO estimates based on national sources,SI_COV_CHLD,204,M,Y0T14,None,PT,2025-03-15T00:00:00,2020,12.53
+2020,A,0,ILO estimates based on national sources,SI_COV_DISAB,204,None,None,None,PT,2025-03-15T00:00:00,2020,0.05
+2021,A,0,"ASPIRE: The Atlas of Social Protection - Indicators of Resilience and Equity, The World Bank. Data are based on national representative household surveys. (datatopics.worldbank.org/aspire/)",SI_COV_LMKT,204,None,None,None,PT,2025-04-29T00:00:00,2021,1.95807374843261
+2021,A,0,"ASPIRE: The Atlas of Social Protection - Indicators of Resilience and Equity, The World Bank. Data are based on national representative household surveys. (datatopics.worldbank.org/aspire/)",SI_COV_LMKT,204,None,None,Q1,PT,2025-04-29T00:00:00,2021,0.556316711336481
+2020,A,0,ILO estimates based on national sources,SI_COV_MATNL,204,F,Y15T49,None,PT,2025-03-15T00:00:00,2020,2.84
+2000,A,0,ILO estimates based on national sources,SI_COV_PENSN,204,None,Y_GE65,None,PT,2025-03-15T00:00:00,2020,3.0
+2009,A,0,ILO estimates based on national sources,SI_COV_PENSN,204,None,Y_GE65,None,PT,2025-03-15T00:00:00,2020,9.7
+2017,A,0,ILO estimates based on national sources,SI_COV_PENSN,204,None,Y_GE65,None,PT,2025-03-15T00:00:00,2020,11.0
+2019,A,0,ILO estimates based on national sources,SI_COV_PENSN,204,None,Y_GE65,None,PT,2025-03-15T00:00:00,2020,11.0
+2020,A,0,ILO estimates based on national sources,SI_COV_PENSN,204,None,Y_GE65,None,PT,2025-03-15T00:00:00,2020,9.1
+2018,A,0,"ASPIRE: The Atlas of Social Protection - Indicators of Resilience and Equity, The World Bank. Data are based on national representative household surveys. (datatopics.worldbank.org/aspire/)",SI_COV_SOCAST,204,None,None,None,PT,2025-04-29T00:00:00,2021,8.2447477996347
+2021,A,0,"ASPIRE: The Atlas of Social Protection - Indicators of Resilience and Equity, The World Bank. Data are based on national representative household surveys. (datatopics.worldbank.org/aspire/)",SI_COV_SOCAST,204,None,None,None,PT,2025-04-29T00:00:00,2021,4.96796113249095
+2018,A,0,"ASPIRE: The Atlas of Social Protection - Indicators of Resilience and Equity, The World Bank. Data are based on national representative household surveys. (datatopics.worldbank.org/aspire/)",SI_COV_SOCAST,204,None,None,Q1,PT,2025-04-29T00:00:00,2021,8.84756933108765
+2021,A,0,"ASPIRE: The Atlas of Social Protection - Indicators of Resilience and Equity, The World Bank. Data are based on national representative household surveys. (datatopics.worldbank.org/aspire/)",SI_COV_SOCAST,204,None,None,Q1,PT,2025-04-29T00:00:00,2021,4.40916684275506
+2003,A,0,"ASPIRE: The Atlas of Social Protection - Indicators of Resilience and Equity, The World Bank. Data are based on national representative household surveys. (datatopics.worldbank.org/aspire/)",SI_COV_SOCINS,204,None,None,None,PT,2025-04-29T00:00:00,2021,6.62698090721438
+2018,A,0,"ASPIRE: The Atlas of Social Protection - Indicators of Resilience and Equity, The World Bank. Data are based on national representative household surveys. (datatopics.worldbank.org/aspire/)",SI_COV_SOCINS,204,None,None,None,PT,2025-04-29T00:00:00,2021,2.02365284433812
+2021,A,0,"ASPIRE: The Atlas of Social Protection - Indicators of Resilience and Equity, The World Bank. Data are based on national representative household surveys. (datatopics.worldbank.org/aspire/)",SI_COV_SOCINS,204,None,None,None,PT,2025-04-29T00:00:00,2021,2.1083189370054
+2003,A,0,"ASPIRE: The Atlas of Social Protection - Indicators of Resilience and Equity, The World Bank. Data are based on national representative household surveys. (datatopics.worldbank.org/aspire/)",SI_COV_SOCINS,204,None,None,Q1,PT,2025-04-29T00:00:00,2021,3.60006406603271
+2018,A,0,"ASPIRE: The Atlas of Social Protection - Indicators of Resilience and Equity, The World Bank. Data are based on national representative household surveys. (datatopics.worldbank.org/aspire/)",SI_COV_SOCINS,204,None,None,Q1,PT,2025-04-29T00:00:00,2021,0.182296167888914
+2021,A,0,"ASPIRE: The Atlas of Social Protection - Indicators of Resilience and Equity, The World Bank. Data are based on national representative household surveys. (datatopics.worldbank.org/aspire/)",SI_COV_SOCINS,204,None,None,Q1,PT,2025-04-29T00:00:00,2021,0.442730668637848
+2019,A,0,ILO estimates based on national sources,SI_COV_UEMP,204,None,Y_GE15,None,PT,2025-03-15T00:00:00,2022,0.0
+2020,A,0,ILO estimates based on national sources,SI_COV_UEMP,204,None,Y_GE15,None,PT,2025-03-15T00:00:00,2022,0.0
+2022,A,0,ILO estimates based on national sources,SI_COV_UEMP,204,None,Y_GE15,None,PT,2025-03-15T00:00:00,2022,0.0
+2019,A,0,ILO estimates based on national sources,SI_COV_UEMP,204,F,Y_GE15,None,PT,2025-03-15T00:00:00,2022,0.0
+2020,A,0,ILO estimates based on national sources,SI_COV_UEMP,204,F,Y_GE15,None,PT,2025-03-15T00:00:00,2022,0.0
+2022,A,0,ILO estimates based on national sources,SI_COV_UEMP,204,F,Y_GE15,None,PT,2025-03-15T00:00:00,2022,0.0
+2019,A,0,ILO estimates based on national sources,SI_COV_UEMP,204,M,Y_GE15,None,PT,2025-03-15T00:00:00,2022,0.0
+2020,A,0,ILO estimates based on national sources,SI_COV_UEMP,204,M,Y_GE15,None,PT,2025-03-15T00:00:00,2022,0.0
+2022,A,0,ILO estimates based on national sources,SI_COV_UEMP,204,M,Y_GE15,None,PT,2025-03-15T00:00:00,2022,0.0
+2020,A,0,ILO estimates based on national sources,SI_COV_VULN,204,None,None,None,PT,2025-03-15T00:00:00,2020,5.18
+2020,A,0,ILO estimates based on national sources,SI_COV_VULN,204,F,None,None,PT,2025-03-15T00:00:00,2020,4.62
+2020,A,0,ILO estimates based on national sources,SI_COV_VULN,204,M,None,None,PT,2025-03-15T00:00:00,2020,5.62
+2006,A,0,ILO estimates based on national sources,SI_COV_WKINJRY,204,None,Y_GE15,None,PT,2025-03-15T00:00:00,2020,4.0
+2019,A,0,ILO estimates based on national sources,SI_COV_WKINJRY,204,None,Y_GE15,None,PT,2025-03-15T00:00:00,2020,4.0
+2020,A,0,ILO estimates based on national sources,SI_COV_WKINJRY,204,None,Y_GE15,None,PT,2025-03-15T00:00:00,2020,7.23
+2020,A,0,ILO estimates based on national sources,SI_COV_WKINJRY,204,F,Y_GE15,None,PT,2025-03-15T00:00:00,2020,4.51
+2020,A,0,ILO estimates based on national sources,SI_COV_WKINJRY,204,M,Y_GE15,None,PT,2025-03-15T00:00:00,2020,9.48

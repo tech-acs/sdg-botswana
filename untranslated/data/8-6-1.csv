@@ -1,0 +1,13 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2011,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,SL_TLF_NEET,204,None,Y15T24,PT,2025-03-15T00:00:00,2022,17.23
+2013,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,SL_TLF_NEET,204,None,Y15T24,PT,2025-03-15T00:00:00,2022,24.52
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,SL_TLF_NEET,204,None,Y15T24,PT,2025-03-15T00:00:00,2022,15.86
+2022,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,SL_TLF_NEET,204,None,Y15T24,PT,2025-03-15T00:00:00,2022,14.24
+2011,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,SL_TLF_NEET,204,F,Y15T24,PT,2025-03-15T00:00:00,2022,23.18
+2013,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,SL_TLF_NEET,204,F,Y15T24,PT,2025-03-15T00:00:00,2022,36.86
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,SL_TLF_NEET,204,F,Y15T24,PT,2025-03-15T00:00:00,2022,18.64
+2022,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,SL_TLF_NEET,204,F,Y15T24,PT,2025-03-15T00:00:00,2022,16.75
+2011,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,SL_TLF_NEET,204,M,Y15T24,PT,2025-03-15T00:00:00,2022,10.89
+2013,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,SL_TLF_NEET,204,M,Y15T24,PT,2025-03-15T00:00:00,2022,11.2
+2019,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,SL_TLF_NEET,204,M,Y15T24,PT,2025-03-15T00:00:00,2022,12.98
+2022,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,SL_TLF_NEET,204,M,Y15T24,PT,2025-03-15T00:00:00,2022,11.77

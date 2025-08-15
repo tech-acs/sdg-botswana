@@ -1,0 +1,285 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,CUST_BREAKDOWN,COMPOSITE_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,CUST_BREAKDOWN_LB,Value
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_DGRDA,204,None,None,KM2,2025-03-21T00:00:00,2000-2021,,24.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_DGRDA,204,None,None,KM2,2025-03-21T00:00:00,2000-2021,,41.4
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_DGRDA,204,C04,None,KM2,2025-03-21T00:00:00,2000-2021,Remaining mountain area,24.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_DGRDA,204,C04,None,KM2,2025-03-21T00:00:00,2000-2021,Remaining mountain area,41.4
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_DGRDP,204,None,None,PT,2025-03-21T00:00:00,2000-2021,,3.7
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_DGRDP,204,None,None,PT,2025-03-21T00:00:00,2000-2021,,6.5
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_DGRDP,204,C04,None,PT,2025-03-21T00:00:00,2000-2021,Remaining mountain area,3.7
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_DGRDP,204,C04,None,PT,2025-03-21T00:00:00,2000-2021,Remaining mountain area,6.5
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_ART,KM2,2025-03-21T00:00:00,2021,,4.8
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_ART,KM2,2025-03-21T00:00:00,2021,,6.2
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_ART,KM2,2025-03-21T00:00:00,2021,,6.8
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_ART,KM2,2025-03-21T00:00:00,2021,,10.1
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_ART,KM2,2025-03-21T00:00:00,2021,,11.7
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_ART,KM2,2025-03-21T00:00:00,2021,,12.8
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_CRP,KM2,2025-03-21T00:00:00,2021,,51.5
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_CRP,KM2,2025-03-21T00:00:00,2021,,48.2
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_CRP,KM2,2025-03-21T00:00:00,2021,,48.2
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_CRP,KM2,2025-03-21T00:00:00,2021,,52.1
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_CRP,KM2,2025-03-21T00:00:00,2021,,57.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_CRP,KM2,2025-03-21T00:00:00,2021,,60.3
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_GRS,KM2,2025-03-21T00:00:00,2021,,204.6
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_GRS,KM2,2025-03-21T00:00:00,2021,,204.6
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_GRS,KM2,2025-03-21T00:00:00,2021,,203.4
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_GRS,KM2,2025-03-21T00:00:00,2021,,199.7
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_GRS,KM2,2025-03-21T00:00:00,2021,,196.1
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_GRS,KM2,2025-03-21T00:00:00,2021,,193.6
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_IWB,KM2,2025-03-21T00:00:00,2021,,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_IWB,KM2,2025-03-21T00:00:00,2021,,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_IWB,KM2,2025-03-21T00:00:00,2021,,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_IWB,KM2,2025-03-21T00:00:00,2021,,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_IWB,KM2,2025-03-21T00:00:00,2021,,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_IWB,KM2,2025-03-21T00:00:00,2021,,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_MGCI,KM2,2025-03-21T00:00:00,2021,,637.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_MGCI,KM2,2025-03-21T00:00:00,2021,,635.7
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_MGCI,KM2,2025-03-21T00:00:00,2021,,635.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_MGCI,KM2,2025-03-21T00:00:00,2021,,631.7
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_MGCI,KM2,2025-03-21T00:00:00,2021,,630.1
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_MGCI,KM2,2025-03-21T00:00:00,2021,,629.1
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_PSG,KM2,2025-03-21T00:00:00,2021,,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_PSG,KM2,2025-03-21T00:00:00,2021,,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_PSG,KM2,2025-03-21T00:00:00,2021,,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_PSG,KM2,2025-03-21T00:00:00,2021,,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_PSG,KM2,2025-03-21T00:00:00,2021,,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_PSG,KM2,2025-03-21T00:00:00,2021,,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SAF,KM2,2025-03-21T00:00:00,2021,,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SAF,KM2,2025-03-21T00:00:00,2021,,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SAF,KM2,2025-03-21T00:00:00,2021,,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SAF,KM2,2025-03-21T00:00:00,2021,,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SAF,KM2,2025-03-21T00:00:00,2021,,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SAF,KM2,2025-03-21T00:00:00,2021,,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SHR,KM2,2025-03-21T00:00:00,2021,,26.3
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SHR,KM2,2025-03-21T00:00:00,2021,,27.7
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SHR,KM2,2025-03-21T00:00:00,2021,,27.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SHR,KM2,2025-03-21T00:00:00,2021,,27.2
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SHR,KM2,2025-03-21T00:00:00,2021,,26.9
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SHR,KM2,2025-03-21T00:00:00,2021,,26.8
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SNV,KM2,2025-03-21T00:00:00,2021,,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SNV,KM2,2025-03-21T00:00:00,2021,,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SNV,KM2,2025-03-21T00:00:00,2021,,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SNV,KM2,2025-03-21T00:00:00,2021,,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SNV,KM2,2025-03-21T00:00:00,2021,,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_SNV,KM2,2025-03-21T00:00:00,2021,,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_TBL,KM2,2025-03-21T00:00:00,2021,,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_TBL,KM2,2025-03-21T00:00:00,2021,,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_TBL,KM2,2025-03-21T00:00:00,2021,,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_TBL,KM2,2025-03-21T00:00:00,2021,,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_TBL,KM2,2025-03-21T00:00:00,2021,,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_TBL,KM2,2025-03-21T00:00:00,2021,,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_TRE,KM2,2025-03-21T00:00:00,2021,,354.6
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_TRE,KM2,2025-03-21T00:00:00,2021,,355.1
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_TRE,KM2,2025-03-21T00:00:00,2021,,356.4
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_TRE,KM2,2025-03-21T00:00:00,2021,,352.7
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_TRE,KM2,2025-03-21T00:00:00,2021,,350.1
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,None,LC_TRE,KM2,2025-03-21T00:00:00,2021,,348.3
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_ART,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,4.8
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_ART,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,6.2
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_ART,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,6.8
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_ART,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,10.1
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_ART,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,11.7
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_ART,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,12.8
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_CRP,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,51.5
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_CRP,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,48.2
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_CRP,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,48.2
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_CRP,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,52.1
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_CRP,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,57.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_CRP,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,60.3
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_GRS,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,204.6
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_GRS,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,204.6
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_GRS,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,203.4
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_GRS,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,199.7
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_GRS,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,196.1
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_GRS,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,193.6
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_IWB,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_IWB,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_IWB,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_IWB,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_IWB,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_IWB,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_MGCI,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,637.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_MGCI,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,635.7
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_MGCI,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,635.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_MGCI,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,631.7
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_MGCI,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,630.1
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_MGCI,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,629.1
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_PSG,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_PSG,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_PSG,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_PSG,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_PSG,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_PSG,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SAF,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SAF,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SAF,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SAF,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SAF,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SAF,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SHR,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,26.3
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SHR,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,27.7
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SHR,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,27.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SHR,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,27.2
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SHR,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,26.9
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SHR,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,26.8
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SNV,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SNV,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SNV,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SNV,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SNV,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_SNV,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_TBL,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_TBL,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_TBL,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_TBL,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_TBL,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_TBL,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_TRE,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,354.6
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_TRE,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,355.1
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_TRE,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,356.4
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_TRE,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,352.7
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_TRE,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,350.1
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCOV,204,C04,LC_TRE,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,348.3
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_ART,PT,2025-03-21T00:00:00,2021,,0.74
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_ART,PT,2025-03-21T00:00:00,2021,,0.96
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_ART,PT,2025-03-21T00:00:00,2021,,1.06
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_ART,PT,2025-03-21T00:00:00,2021,,1.58
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_ART,PT,2025-03-21T00:00:00,2021,,1.82
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_ART,PT,2025-03-21T00:00:00,2021,,1.99
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_CRP,PT,2025-03-21T00:00:00,2021,,8.02
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_CRP,PT,2025-03-21T00:00:00,2021,,7.52
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_CRP,PT,2025-03-21T00:00:00,2021,,7.5
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_CRP,PT,2025-03-21T00:00:00,2021,,8.11
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_CRP,PT,2025-03-21T00:00:00,2021,,8.88
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_CRP,PT,2025-03-21T00:00:00,2021,,9.39
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_GRS,PT,2025-03-21T00:00:00,2021,,31.88
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_GRS,PT,2025-03-21T00:00:00,2021,,31.87
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_GRS,PT,2025-03-21T00:00:00,2021,,31.69
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_GRS,PT,2025-03-21T00:00:00,2021,,31.12
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_GRS,PT,2025-03-21T00:00:00,2021,,30.55
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_GRS,PT,2025-03-21T00:00:00,2021,,30.17
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_IWB,PT,2025-03-21T00:00:00,2021,,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_IWB,PT,2025-03-21T00:00:00,2021,,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_IWB,PT,2025-03-21T00:00:00,2021,,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_IWB,PT,2025-03-21T00:00:00,2021,,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_IWB,PT,2025-03-21T00:00:00,2021,,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_IWB,PT,2025-03-21T00:00:00,2021,,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_MGCI,PT,2025-03-21T00:00:00,2021,,99.26
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_MGCI,PT,2025-03-21T00:00:00,2021,,99.04
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_MGCI,PT,2025-03-21T00:00:00,2021,,98.94
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_MGCI,PT,2025-03-21T00:00:00,2021,,98.42
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_MGCI,PT,2025-03-21T00:00:00,2021,,98.18
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_MGCI,PT,2025-03-21T00:00:00,2021,,98.01
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_PSG,PT,2025-03-21T00:00:00,2021,,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_PSG,PT,2025-03-21T00:00:00,2021,,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_PSG,PT,2025-03-21T00:00:00,2021,,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_PSG,PT,2025-03-21T00:00:00,2021,,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_PSG,PT,2025-03-21T00:00:00,2021,,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_PSG,PT,2025-03-21T00:00:00,2021,,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SAF,PT,2025-03-21T00:00:00,2021,,0.01
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SAF,PT,2025-03-21T00:00:00,2021,,0.01
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SAF,PT,2025-03-21T00:00:00,2021,,0.01
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SAF,PT,2025-03-21T00:00:00,2021,,0.01
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SAF,PT,2025-03-21T00:00:00,2021,,0.01
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SAF,PT,2025-03-21T00:00:00,2021,,0.01
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SHR,PT,2025-03-21T00:00:00,2021,,4.1
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SHR,PT,2025-03-21T00:00:00,2021,,4.32
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SHR,PT,2025-03-21T00:00:00,2021,,4.21
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SHR,PT,2025-03-21T00:00:00,2021,,4.23
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SHR,PT,2025-03-21T00:00:00,2021,,4.2
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SHR,PT,2025-03-21T00:00:00,2021,,4.17
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SNV,PT,2025-03-21T00:00:00,2021,,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SNV,PT,2025-03-21T00:00:00,2021,,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SNV,PT,2025-03-21T00:00:00,2021,,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SNV,PT,2025-03-21T00:00:00,2021,,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SNV,PT,2025-03-21T00:00:00,2021,,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_SNV,PT,2025-03-21T00:00:00,2021,,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_TBL,PT,2025-03-21T00:00:00,2021,,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_TBL,PT,2025-03-21T00:00:00,2021,,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_TBL,PT,2025-03-21T00:00:00,2021,,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_TBL,PT,2025-03-21T00:00:00,2021,,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_TBL,PT,2025-03-21T00:00:00,2021,,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_TBL,PT,2025-03-21T00:00:00,2021,,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_TRE,PT,2025-03-21T00:00:00,2021,,55.25
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_TRE,PT,2025-03-21T00:00:00,2021,,55.32
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_TRE,PT,2025-03-21T00:00:00,2021,,55.53
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_TRE,PT,2025-03-21T00:00:00,2021,,54.95
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_TRE,PT,2025-03-21T00:00:00,2021,,54.54
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,None,LC_TRE,PT,2025-03-21T00:00:00,2021,,54.27
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_ART,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.74
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_ART,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.96
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_ART,PT,2025-03-21T00:00:00,2021,Remaining mountain area,1.06
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_ART,PT,2025-03-21T00:00:00,2021,Remaining mountain area,1.58
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_ART,PT,2025-03-21T00:00:00,2021,Remaining mountain area,1.82
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_ART,PT,2025-03-21T00:00:00,2021,Remaining mountain area,1.99
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_CRP,PT,2025-03-21T00:00:00,2021,Remaining mountain area,8.02
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_CRP,PT,2025-03-21T00:00:00,2021,Remaining mountain area,7.52
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_CRP,PT,2025-03-21T00:00:00,2021,Remaining mountain area,7.5
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_CRP,PT,2025-03-21T00:00:00,2021,Remaining mountain area,8.11
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_CRP,PT,2025-03-21T00:00:00,2021,Remaining mountain area,8.88
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_CRP,PT,2025-03-21T00:00:00,2021,Remaining mountain area,9.39
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_GRS,PT,2025-03-21T00:00:00,2021,Remaining mountain area,31.88
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_GRS,PT,2025-03-21T00:00:00,2021,Remaining mountain area,31.87
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_GRS,PT,2025-03-21T00:00:00,2021,Remaining mountain area,31.69
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_GRS,PT,2025-03-21T00:00:00,2021,Remaining mountain area,31.12
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_GRS,PT,2025-03-21T00:00:00,2021,Remaining mountain area,30.55
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_GRS,PT,2025-03-21T00:00:00,2021,Remaining mountain area,30.17
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_IWB,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_IWB,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_IWB,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_IWB,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_IWB,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_IWB,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_MGCI,PT,2025-03-21T00:00:00,2021,Remaining mountain area,99.26
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_MGCI,PT,2025-03-21T00:00:00,2021,Remaining mountain area,99.04
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_MGCI,PT,2025-03-21T00:00:00,2021,Remaining mountain area,98.94
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_MGCI,PT,2025-03-21T00:00:00,2021,Remaining mountain area,98.42
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_MGCI,PT,2025-03-21T00:00:00,2021,Remaining mountain area,98.18
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_MGCI,PT,2025-03-21T00:00:00,2021,Remaining mountain area,98.01
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_PSG,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_PSG,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_PSG,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_PSG,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_PSG,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_PSG,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SAF,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.01
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SAF,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.01
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SAF,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.01
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SAF,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.01
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SAF,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.01
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SAF,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.01
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SHR,PT,2025-03-21T00:00:00,2021,Remaining mountain area,4.1
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SHR,PT,2025-03-21T00:00:00,2021,Remaining mountain area,4.32
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SHR,PT,2025-03-21T00:00:00,2021,Remaining mountain area,4.21
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SHR,PT,2025-03-21T00:00:00,2021,Remaining mountain area,4.23
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SHR,PT,2025-03-21T00:00:00,2021,Remaining mountain area,4.2
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SHR,PT,2025-03-21T00:00:00,2021,Remaining mountain area,4.17
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SNV,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SNV,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SNV,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SNV,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SNV,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_SNV,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_TBL,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_TBL,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_TBL,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_TBL,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_TBL,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_TBL,PT,2025-03-21T00:00:00,2021,Remaining mountain area,0.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_TRE,PT,2025-03-21T00:00:00,2021,Remaining mountain area,55.25
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_TRE,PT,2025-03-21T00:00:00,2021,Remaining mountain area,55.32
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_TRE,PT,2025-03-21T00:00:00,2021,Remaining mountain area,55.53
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_TRE,PT,2025-03-21T00:00:00,2021,Remaining mountain area,54.95
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_TRE,PT,2025-03-21T00:00:00,2021,Remaining mountain area,54.54
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_GRNCVI,204,C04,LC_TRE,PT,2025-03-21T00:00:00,2021,Remaining mountain area,54.27
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_TOTL,204,None,None,KM2,2025-03-21T00:00:00,2021,,642.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_TOTL,204,None,None,KM2,2025-03-21T00:00:00,2021,,642.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_TOTL,204,None,None,KM2,2025-03-21T00:00:00,2021,,642.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_TOTL,204,None,None,KM2,2025-03-21T00:00:00,2021,,642.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_TOTL,204,None,None,KM2,2025-03-21T00:00:00,2021,,642.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_TOTL,204,None,None,KM2,2025-03-21T00:00:00,2021,,642.0
+2000,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_TOTL,204,C04,None,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,642.0
+2005,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_TOTL,204,C04,None,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,642.0
+2010,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_TOTL,204,C04,None,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,642.0
+2015,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_TOTL,204,C04,None,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,642.0
+2018,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_TOTL,204,C04,None,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,642.0
+2021,E,0,FAO estimate,Food and Agriculture Organization of the United Nations (FAO),ER_MTN_TOTL,204,C04,None,KM2,2025-03-21T00:00:00,2021,Remaining mountain area,642.0

@@ -1,0 +1,9 @@
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2020,A,0,Direction Générale de l'Eau/Ministère de l'Eau et des Mines,EN_H2O_GRAMBQ,204,PT,2025-03-25T00:00:00,2021-2022,88.89
+2023,A,0,Direction Générale de l'Eau/Ministère de l'Eau et des Mines,EN_H2O_GRAMBQ,204,PT,2025-03-25T00:00:00,2021-2022,89.34
+2020,A,0,Direction Générale de l'Eau/Ministère de l'Eau et des Mines,EN_H2O_OPAMBQ,204,PT,2025-03-25T00:00:00,2021-2022,100.0
+2023,A,0,Direction Générale de l'Eau/Ministère de l'Eau et des Mines,EN_H2O_OPAMBQ,204,PT,2025-03-25T00:00:00,2021-2022,100.0
+2020,A,0,Direction Générale de l'Eau/Ministère de l'Eau et des Mines,EN_H2O_RVAMBQ,204,PT,2025-03-25T00:00:00,2021-2022,100.0
+2023,A,0,Direction Générale de l'Eau/Ministère de l'Eau et des Mines,EN_H2O_RVAMBQ,204,PT,2025-03-25T00:00:00,2021-2022,88.89
+2020,A,0,Direction Générale de l'Eau/Ministère de l'Eau et des Mines,EN_H2O_WBAMBQ,204,PT,2025-03-25T00:00:00,2021-2022,89.42
+2023,A,0,Direction Générale de l'Eau/Ministère de l'Eau et des Mines,EN_H2O_WBAMBQ,204,PT,2025-03-25T00:00:00,2021-2022,89.39

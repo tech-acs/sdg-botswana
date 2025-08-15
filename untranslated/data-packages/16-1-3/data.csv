@@ -1,0 +1,7 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2021,A,0,Survey sample covers women and men aged 15-49,Multiple Indicator Cluster Surveys,VC_VOV_PHY_ASLT,204,F,PT,2025-03-26T00:00:00,2021,1.76
+2021,A,0,Survey sample covers women and men aged 15-49,Multiple Indicator Cluster Surveys,VC_VOV_PHY_ASLT,204,M,PT,2025-03-26T00:00:00,2021,1.63
+2021,A,0,Survey sample covers women and men aged 15-49,Multiple Indicator Cluster Surveys,VC_VOV_PHYL,204,F,PT,2025-03-26T00:00:00,2021,3.4
+2021,A,0,Survey sample covers women and men aged 15-49,Multiple Indicator Cluster Surveys,VC_VOV_PHYL,204,M,PT,2025-03-26T00:00:00,2021,3.34
+2021,A,0,Survey sample covers women and men aged 15-49,Multiple Indicator Cluster Surveys,VC_VOV_ROBB,204,F,PT,2025-03-26T00:00:00,2021,1.87
+2021,A,0,Survey sample covers women and men aged 15-49,Multiple Indicator Cluster Surveys,VC_VOV_ROBB,204,M,PT,2025-03-26T00:00:00,2021,1.95

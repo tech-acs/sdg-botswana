@@ -1,0 +1,5 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2021,A,0,Quantity resulting from sorting and intended for valorization.,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_RCYR,204,PT,2025-03-21T00:00:00,2022,0.01529
+2022,A,0,Quantity resulting from sorting and intended for valorization.,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_RCYR,204,PT,2025-03-21T00:00:00,2022,0.15579
+2021,A,0,Quantity resulting from sorting and intended for valorization.,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_RCYV,204,T,2025-03-21T00:00:00,2022,51.9
+2022,A,0,Quantity resulting from sorting and intended for valorization.,Institut National de la Statistique et de l'Analyse Economique,EN_MWT_RCYV,204,T,2025-03-21T00:00:00,2022,617.6
